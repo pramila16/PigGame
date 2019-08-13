@@ -1,0 +1,1621 @@
+2019-08-11 04:47:54,356 INFO You are playing Computer game
+2019-08-11 04:47:56,662 INFO dice is rolled
+2019-08-11 04:47:57,961 INFO dice is held
+2019-08-11 04:47:57,962 INFO dice is rolled
+2019-08-11 04:47:57,962 INFO dice is held
+2019-08-11 04:47:59,835 INFO dice is rolled
+2019-08-11 04:48:00,806 INFO dice is held
+2019-08-11 04:48:00,807 INFO dice is held
+2019-08-11 04:48:03,241 INFO dice is rolled
+2019-08-11 04:48:03,242 INFO Game is finished
+2019-08-11 07:43:04,588 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:43:49,919 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:44:06,560 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:44:25,108 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:44:54,187 INFO You are playing Computer game
+2019-08-11 07:44:54,187 INFO dice is held
+2019-08-11 07:46:21,551 INFO dice is rolled
+2019-08-11 07:47:03,819 INFO dice is rolled
+2019-08-11 07:47:06,928 INFO dice is rolled
+2019-08-11 07:47:11,319 INFO dice is rolled
+2019-08-11 07:47:19,210 INFO dice is rolled
+2019-08-11 07:47:22,960 INFO dice is held
+2019-08-11 07:47:22,960 INFO dice is held
+2019-08-11 07:47:41,992 INFO dice is rolled
+2019-08-11 07:47:52,274 ERROR input is invalid
+2019-08-11 07:48:54,480 INFO You are playing Challenge Game
+2019-08-11 07:49:04,793 INFO dice is held
+2019-08-11 07:49:08,746 INFO dice is held
+2019-08-11 07:49:09,512 INFO dice is held
+2019-08-11 07:49:10,137 INFO dice is held
+2019-08-11 07:49:10,762 INFO dice is held
+2019-08-11 07:49:11,512 INFO dice is held
+2019-08-11 07:49:12,856 INFO Player switched
+2019-08-11 07:49:12,856 INFO dice is rolled
+2019-08-11 07:49:15,747 INFO Player switched
+2019-08-11 07:49:15,747 INFO dice is rolled
+2019-08-11 07:49:17,622 INFO dice is rolled
+2019-08-11 07:49:22,872 INFO dice is rolled
+2019-08-11 07:49:52,061 ERROR input is invalid
+2019-08-11 07:50:05,562 INFO You are playing Challenge Game
+2019-08-11 07:50:12,984 INFO dice is rolled
+2019-08-11 07:50:15,531 INFO dice is rolled
+2019-08-11 07:50:16,484 INFO dice is rolled
+2019-08-11 07:50:17,281 INFO dice is rolled
+2019-08-11 07:50:18,047 INFO Player switched
+2019-08-11 07:50:18,047 INFO dice is rolled
+2019-08-11 07:50:18,797 INFO Player switched
+2019-08-11 07:50:18,797 INFO dice is rolled
+2019-08-11 07:50:22,594 ERROR input is invalid
+2019-08-11 07:52:03,333 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:52:19,522 INFO You are playing Tournament Game
+2019-08-11 07:52:33,647 INFO dice is rolled
+2019-08-11 07:52:35,022 INFO dice is rolled
+2019-08-11 07:52:35,944 INFO dice is rolled
+2019-08-11 07:52:36,757 INFO dice is rolled
+2019-08-11 07:52:37,991 INFO dice is rolled
+2019-08-11 07:52:38,976 INFO dice is rolled
+2019-08-11 07:52:39,913 INFO dice is rolled
+2019-08-11 07:52:40,945 INFO dice is rolled
+2019-08-11 07:52:42,007 INFO dice is rolled
+2019-08-11 07:52:43,445 INFO dice is rolled
+2019-08-11 07:52:44,695 INFO dice is rolled
+2019-08-11 07:52:45,867 INFO dice is rolled
+2019-08-11 07:52:47,210 INFO dice is rolled
+2019-08-11 07:52:51,023 INFO dice is rolled
+2019-08-11 07:52:52,008 INFO dice is rolled
+2019-08-11 07:52:52,929 INFO dice is rolled
+2019-08-11 07:52:53,758 INFO dice is rolled
+2019-08-11 07:52:54,617 INFO dice is rolled
+2019-08-11 07:52:55,461 INFO dice is rolled
+2019-08-11 07:52:56,336 INFO dice is rolled
+2019-08-11 07:52:57,180 INFO dice is rolled
+2019-08-11 07:52:58,055 INFO dice is rolled
+2019-08-11 07:52:58,977 INFO dice is rolled
+2019-08-11 07:52:59,867 INFO dice is rolled
+2019-08-11 07:53:00,852 INFO dice is rolled
+2019-08-11 07:53:01,930 INFO dice is rolled
+2019-08-11 07:53:04,102 INFO Player switched
+2019-08-11 07:53:04,102 INFO dice is rolled
+2019-08-11 07:53:27,712 INFO dice is rolled
+2019-08-11 07:53:28,666 INFO dice is rolled
+2019-08-11 07:53:37,932 INFO dice is rolled
+2019-08-11 07:53:38,885 INFO dice is rolled
+2019-08-11 07:53:39,869 INFO dice is rolled
+2019-08-11 07:53:40,729 INFO dice is rolled
+2019-08-11 07:53:40,744 ERROR input is invalid
+2019-08-11 07:54:22,574 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:54:38,341 ERROR Execution interrutpted due to invalid input 
+2019-08-11 07:54:58,576 INFO You are playing Challenge Game
+2019-08-11 07:55:49,735 INFO dice is held
+2019-08-11 07:55:56,720 INFO dice is held
+2019-08-11 07:55:59,923 INFO dice is rolled
+2019-08-11 07:56:02,454 INFO dice is rolled
+2019-08-11 07:56:03,282 INFO dice is rolled
+2019-08-11 07:56:04,079 INFO dice is rolled
+2019-08-11 07:56:04,798 INFO dice is rolled
+2019-08-11 07:56:05,517 INFO dice is rolled
+2019-08-11 07:56:06,298 INFO dice is rolled
+2019-08-11 07:56:07,017 INFO dice is rolled
+2019-08-11 07:56:07,783 INFO dice is rolled
+2019-08-11 07:56:08,611 INFO dice is rolled
+2019-08-11 07:56:09,423 INFO dice is rolled
+2019-08-11 07:56:10,236 INFO dice is rolled
+2019-08-11 07:56:11,048 INFO Player switched
+2019-08-11 07:56:11,048 INFO dice is rolled
+2019-08-11 07:56:23,268 INFO dice is held
+2019-08-11 07:56:25,174 INFO dice is held
+2019-08-11 07:56:39,956 INFO dice is held
+2019-08-11 07:56:40,315 INFO dice is held
+2019-08-11 07:56:40,597 INFO dice is held
+2019-08-11 07:56:40,862 INFO dice is held
+2019-08-11 07:56:41,097 INFO dice is held
+2019-08-11 07:56:41,347 INFO dice is held
+2019-08-11 07:56:41,581 INFO dice is held
+2019-08-11 07:56:41,815 INFO dice is held
+2019-08-11 07:56:42,050 INFO dice is held
+2019-08-11 07:56:42,300 INFO dice is held
+2019-08-11 07:56:42,534 INFO dice is held
+2019-08-11 07:56:42,769 INFO dice is held
+2019-08-11 07:56:43,003 INFO dice is held
+2019-08-11 07:56:43,237 INFO dice is held
+2019-08-11 07:56:44,112 INFO dice is held
+2019-08-11 07:56:44,612 INFO dice is held
+2019-08-11 07:56:44,941 INFO dice is held
+2019-08-11 07:56:45,237 INFO dice is held
+2019-08-11 07:56:45,503 INFO dice is held
+2019-08-11 07:56:45,784 INFO dice is held
+2019-08-11 07:56:46,081 INFO dice is held
+2019-08-11 07:56:46,347 INFO dice is held
+2019-08-11 07:56:46,613 INFO dice is held
+2019-08-11 07:56:46,878 INFO dice is held
+2019-08-11 07:56:47,128 INFO dice is held
+2019-08-11 07:56:47,925 INFO dice is held
+2019-08-11 07:56:48,331 INFO dice is held
+2019-08-11 07:56:48,581 INFO dice is held
+2019-08-11 07:56:49,456 INFO dice is held
+2019-08-11 07:56:50,753 INFO dice is held
+2019-08-11 07:56:51,082 INFO dice is held
+2019-08-11 07:56:51,378 INFO dice is held
+2019-08-11 07:56:52,457 INFO dice is held
+2019-08-11 07:57:00,785 INFO dice is held
+2019-08-11 07:57:01,504 INFO dice is held
+2019-08-11 07:57:01,816 INFO dice is held
+2019-08-11 07:57:02,082 INFO dice is held
+2019-08-11 07:57:02,348 INFO dice is held
+2019-08-11 07:57:02,582 INFO dice is held
+2019-08-11 07:57:03,598 INFO dice is held
+2019-08-11 07:57:08,004 INFO dice is held
+2019-08-11 07:57:15,426 INFO dice is held
+2019-08-11 07:57:20,192 INFO dice is rolled
+2019-08-11 07:57:22,677 INFO dice is rolled
+2019-08-11 07:57:22,958 INFO dice is rolled
+2019-08-11 07:57:23,192 INFO dice is rolled
+2019-08-11 07:57:23,427 INFO dice is rolled
+2019-08-11 07:57:23,646 INFO dice is rolled
+2019-08-11 07:57:23,849 INFO Player switched
+2019-08-11 07:57:23,849 INFO dice is rolled
+2019-08-11 07:57:24,052 INFO dice is rolled
+2019-08-11 07:57:25,208 INFO dice is rolled
+2019-08-11 07:57:28,927 INFO dice is rolled
+2019-08-11 07:57:29,146 INFO dice is rolled
+2019-08-11 07:57:29,349 INFO dice is rolled
+2019-08-11 07:57:29,552 INFO dice is rolled
+2019-08-11 07:57:29,724 INFO dice is rolled
+2019-08-11 07:57:29,911 INFO dice is rolled
+2019-08-11 07:57:30,083 INFO dice is rolled
+2019-08-11 07:57:30,880 INFO dice is rolled
+2019-08-11 07:57:31,146 INFO dice is rolled
+2019-08-11 07:57:31,365 INFO dice is rolled
+2019-08-11 07:57:31,568 INFO dice is rolled
+2019-08-11 07:57:31,755 INFO dice is rolled
+2019-08-11 07:57:32,474 INFO dice is rolled
+2019-08-11 07:57:32,755 INFO dice is rolled
+2019-08-11 07:57:32,974 INFO dice is rolled
+2019-08-11 07:57:33,177 INFO dice is rolled
+2019-08-11 07:57:33,396 INFO Player switched
+2019-08-11 07:57:33,396 INFO dice is rolled
+2019-08-11 07:57:33,584 INFO dice is rolled
+2019-08-11 08:05:43,920 INFO You are playing Computer game
+2019-08-11 08:05:48,092 ERROR input is invalid
+2019-08-11 08:05:54,373 ERROR Execution interrutpted due to invalid input 
+2019-08-11 08:06:08,624 INFO You are playing Computer game
+2019-08-11 08:06:15,640 ERROR input is invalid
+2019-08-11 08:06:46,532 INFO You are playing Challenge Game
+2019-08-11 08:08:11,864 INFO You are playing Challenge Game
+2019-08-11 08:08:19,802 INFO dice is rolled
+2019-08-11 08:08:24,662 INFO Player switched
+2019-08-11 08:08:24,662 INFO dice is rolled
+2019-08-11 08:08:28,224 ERROR input is invalid
+2019-08-11 08:08:34,725 INFO You are playing Challenge Game
+2019-08-11 08:16:01,199 INFO You are playing Challenge Game
+2019-08-11 20:59:54,520 ERROR input is invalid
+2019-08-11 21:00:02,572 INFO You are playing Challenge Game
+2019-08-11 21:00:09,320 ERROR input is invalid
+2019-08-11 21:01:58,047 INFO You are playing Challenge Game
+2019-08-11 21:04:32,286 INFO You are playing Challenge Game
+2019-08-11 21:05:05,689 INFO You are playing Computer game
+2019-08-11 21:05:05,690 INFO dice is rolled
+2019-08-11 21:05:05,690 INFO dice is held
+2019-08-11 21:05:10,833 ERROR input is invalid
+2019-08-11 21:05:19,913 INFO You are playing Challenge Game
+2019-08-11 21:06:00,077 ERROR Execution interrutpted due to invalid input 
+2019-08-11 21:06:05,584 INFO You are playing Computer game
+2019-08-11 21:12:09,244 INFO You are playing Challenge Game
+2019-08-11 21:12:16,858 ERROR input is invalid
+2019-08-11 21:12:23,770 ERROR Execution interrutpted due to invalid input 
+2019-08-11 21:18:02,802 ERROR Execution interrutpted due to invalid input 
+2019-08-11 21:19:54,196 ERROR Execution interrutpted due to invalid input 
+2019-08-11 21:20:44,830 INFO You are playing Challenge Game
+2019-08-11 21:20:48,990 INFO dice is rolled
+2019-08-11 21:20:51,172 INFO dice is held
+2019-08-11 21:22:02,919 ERROR Execution interrutpted due to invalid input 
+2019-08-11 21:22:05,015 INFO You are playing Computer game
+2019-08-11 21:22:08,687 ERROR input is invalid
+2019-08-11 21:22:31,862 INFO You are playing Challenge Game
+2019-08-11 21:24:01,402 INFO You are playing Challenge Game
+2019-08-11 21:24:47,386 INFO You are playing Challenge Game
+2019-08-11 21:25:36,942 INFO You are playing Computer game
+2019-08-11 21:25:36,943 INFO dice is held
+2019-08-11 21:26:13,125 INFO dice is rolled
+2019-08-11 21:30:14,456 INFO You are playing Computer game
+2019-08-11 21:30:16,495 INFO dice is rolled
+2019-08-11 21:31:58,271 INFO You are playing Challenge Game
+2019-08-11 21:32:01,840 INFO dice is rolled
+2019-08-11 21:32:45,700 INFO You are playing Computer game
+2019-08-11 21:32:47,375 INFO Player switched
+2019-08-11 21:32:47,376 INFO dice is rolled
+2019-08-11 21:32:47,376 INFO dice is rolled
+2019-08-11 21:32:47,376 INFO dice is held
+2019-08-11 21:33:33,923 INFO You are playing Computer game
+2019-08-11 21:33:35,321 INFO dice is rolled
+2019-08-11 21:33:41,062 INFO Player switched
+2019-08-11 21:33:41,062 INFO dice is rolled
+2019-08-11 21:33:41,062 INFO dice is rolled
+2019-08-11 21:33:41,062 INFO dice is rolled
+2019-08-11 21:33:41,062 INFO dice is rolled
+2019-08-11 21:33:41,062 INFO dice is rolled
+2019-08-11 21:33:41,063 INFO dice is held
+2019-08-11 21:36:15,424 INFO You are playing Computer game
+2019-08-11 21:36:15,425 INFO dice is held
+2019-08-11 21:36:42,350 INFO You are playing Computer game
+2019-08-11 21:36:47,744 INFO dice is rolled
+2019-08-11 21:38:39,704 INFO dice is rolled
+2019-08-11 21:46:24,977 INFO You are playing Computer game
+2019-08-11 21:46:24,977 INFO dice is held
+2019-08-11 21:48:56,386 INFO You are playing Computer game
+2019-08-11 21:48:56,387 INFO dice is rolled
+2019-08-11 21:48:56,387 INFO dice is rolled
+2019-08-11 21:48:56,387 INFO dice is held
+2019-08-11 21:58:07,700 INFO You are playing Computer game
+2019-08-11 21:58:07,700 INFO dice is held
+2019-08-11 22:04:04,852 INFO You are playing Computer game
+2019-08-11 22:04:04,852 INFO Player switched
+2019-08-11 22:04:04,852 INFO dice is rolled
+2019-08-11 22:05:01,785 INFO You are playing Computer game
+2019-08-11 22:05:01,786 INFO dice is rolled
+2019-08-11 22:05:01,786 INFO dice is held
+2019-08-11 22:13:39,406 INFO You are playing Computer game
+2019-08-11 22:14:40,414 INFO You are playing Computer game
+2019-08-11 22:14:49,313 INFO dice is rolled
+2019-08-11 22:15:19,611 INFO dice is held
+2019-08-11 22:15:19,611 INFO dice is held
+2019-08-11 22:15:49,725 INFO dice is held
+2019-08-11 22:15:49,725 INFO dice is held
+2019-08-11 22:16:03,008 INFO dice is held
+2019-08-11 22:16:03,008 INFO dice is held
+2019-08-11 22:16:06,973 INFO dice is rolled
+2019-08-11 22:16:08,142 INFO dice is rolled
+2019-08-11 22:16:09,056 INFO dice is rolled
+2019-08-11 22:16:09,743 INFO dice is rolled
+2019-08-11 22:16:10,300 INFO Player switched
+2019-08-11 22:16:10,300 INFO dice is rolled
+2019-08-11 22:16:10,300 INFO dice is rolled
+2019-08-11 22:16:10,300 INFO dice is held
+2019-08-11 22:16:10,773 INFO dice is rolled
+2019-08-11 22:16:11,882 INFO dice is rolled
+2019-08-11 22:16:12,856 INFO dice is rolled
+2019-08-11 22:16:13,713 INFO dice is rolled
+2019-08-11 22:16:14,381 INFO dice is rolled
+2019-08-11 22:16:15,024 INFO dice is rolled
+2019-08-11 22:16:15,657 INFO dice is rolled
+2019-08-11 22:16:16,739 INFO dice is rolled
+2019-08-11 22:16:17,724 INFO dice is rolled
+2019-08-11 22:16:18,426 INFO dice is rolled
+2019-08-11 22:16:18,967 INFO dice is rolled
+2019-08-11 22:16:19,506 INFO dice is rolled
+2019-08-11 22:16:19,978 ERROR input is invalid
+2019-08-11 22:18:48,259 INFO You are playing Challenge Game
+2019-08-11 22:18:54,051 ERROR input is invalid
+2019-08-11 22:19:16,668 ERROR Execution interrutpted due to invalid input 
+2019-08-11 22:19:18,829 INFO You are playing Computer game
+2019-08-11 22:19:18,829 INFO dice is rolled
+2019-08-11 22:19:18,829 INFO dice is rolled
+2019-08-11 22:19:18,830 INFO dice is held
+2019-08-11 22:19:26,185 ERROR input is invalid
+2019-08-11 22:19:33,639 INFO You are playing Tournament Game
+2019-08-11 22:32:49,850 INFO You are playing Challenge Game
+2019-08-11 22:33:05,419 INFO dice is rolled
+2019-08-11 22:33:06,624 INFO dice is rolled
+2019-08-11 22:33:07,479 INFO dice is rolled
+2019-08-11 22:33:08,103 INFO dice is rolled
+2019-08-11 22:34:12,610 INFO You are playing Computer game
+2019-08-11 22:34:12,610 INFO dice is held
+2019-08-11 22:34:20,123 INFO dice is rolled
+2019-08-11 22:37:38,351 ERROR Execution interrutpted due to invalid input 
+2019-08-11 22:37:45,742 INFO You are playing Computer game
+2019-08-11 22:40:51,585 ERROR input is invalid
+2019-08-11 22:41:05,563 INFO You are playing Computer game
+2019-08-11 22:41:30,659 INFO dice is rolled
+2019-08-11 22:41:33,817 INFO dice is held
+2019-08-11 22:41:33,818 INFO dice is held
+2019-08-11 22:41:37,718 INFO Player switched
+2019-08-11 22:41:37,718 INFO dice is rolled
+2019-08-11 22:41:37,718 INFO dice is rolled
+2019-08-11 22:41:37,718 INFO dice is rolled
+2019-08-11 22:41:37,718 INFO dice is rolled
+2019-08-11 22:41:37,718 INFO dice is held
+2019-08-11 22:41:41,232 INFO dice is held
+2019-08-11 22:41:41,232 INFO dice is rolled
+2019-08-11 22:41:41,232 INFO dice is held
+2019-08-11 22:41:51,363 INFO dice is rolled
+2019-08-11 22:43:38,464 INFO You are playing Computer game
+2019-08-11 22:43:38,465 INFO dice is held
+2019-08-11 22:43:48,611 INFO dice is held
+2019-08-11 22:43:48,611 INFO dice is held
+2019-08-11 22:43:53,132 INFO dice is rolled
+2019-08-11 22:43:55,830 INFO Player switched
+2019-08-11 22:43:55,830 INFO dice is rolled
+2019-08-11 22:43:55,830 INFO dice is rolled
+2019-08-11 22:43:55,830 INFO dice is rolled
+2019-08-11 22:43:55,830 INFO dice is rolled
+2019-08-11 22:43:55,830 INFO dice is rolled
+2019-08-11 22:43:55,831 INFO dice is rolled
+2019-08-11 22:43:55,831 INFO Player switched
+2019-08-11 22:43:55,831 INFO dice is rolled
+2019-08-11 22:43:57,414 INFO dice is rolled
+2019-08-11 22:43:59,544 ERROR input is invalid
+2019-08-11 22:52:46,899 INFO You are playing Tournament Game
+2019-08-12 12:36:26,640 INFO You are playing Computer game
+2019-08-12 12:36:29,173 INFO dice is rolled
+2019-08-12 12:36:30,463 INFO Player switched
+2019-08-12 12:36:30,463 INFO dice is rolled
+2019-08-12 12:36:30,464 INFO dice is held
+2019-08-12 12:36:38,421 INFO dice is held
+2019-08-12 12:36:38,421 INFO dice is rolled
+2019-08-12 12:36:38,421 INFO dice is rolled
+2019-08-12 12:36:38,421 INFO dice is rolled
+2019-08-12 12:36:38,421 INFO dice is rolled
+2019-08-12 12:36:38,422 INFO dice is held
+2019-08-12 12:36:59,474 INFO dice is rolled
+2019-08-12 12:37:00,966 INFO dice is rolled
+2019-08-12 12:37:02,855 INFO dice is held
+2019-08-12 12:37:02,855 INFO Player switched
+2019-08-12 12:37:02,856 INFO dice is rolled
+2019-08-12 12:37:12,759 INFO Player switched
+2019-08-12 12:37:12,760 INFO dice is rolled
+2019-08-12 12:37:12,760 INFO dice is held
+2019-08-12 12:37:18,999 ERROR input is invalid
+2019-08-12 14:13:29,534 INFO You are playing Computer game
+2019-08-12 14:14:02,734 INFO You are playing Computer game
+2019-08-12 14:14:19,490 INFO You are playing Computer game
+2019-08-12 14:14:37,011 INFO You are playing Computer game
+2019-08-12 14:15:11,753 INFO You are playing Tournament Game
+2019-08-12 14:15:16,770 INFO dice is rolled
+2019-08-12 14:15:20,299 INFO dice is held
+2019-08-12 14:15:23,594 INFO dice is rolled
+2019-08-12 14:15:27,659 INFO dice is held
+2019-08-12 14:15:30,793 INFO Player switched
+2019-08-12 14:15:30,794 INFO dice is rolled
+2019-08-12 14:15:34,035 ERROR input is invalid
+2019-08-12 14:16:13,517 INFO You are playing Computer game
+2019-08-12 14:16:13,517 INFO dice is held
+2019-08-12 14:16:28,084 INFO dice is rolled
+2019-08-12 14:16:40,310 INFO dice is rolled
+2019-08-12 14:16:43,894 INFO dice is held
+2019-08-12 14:16:43,894 INFO dice is held
+2019-08-12 14:18:18,579 INFO You are playing Computer game
+2019-08-12 14:18:49,779 INFO You are playing Computer game
+2019-08-12 14:19:26,012 INFO You are playing Computer game
+2019-08-12 14:38:48,968 INFO You are playing Computer game
+2019-08-12 14:39:35,497 INFO You are playing Computer game
+2019-08-12 14:39:35,497 INFO Player switched
+2019-08-12 14:39:35,497 INFO dice is rolled
+2019-08-12 14:39:48,090 INFO dice is rolled
+2019-08-12 14:39:50,057 INFO dice is held
+2019-08-12 14:39:50,057 INFO dice is rolled
+2019-08-12 14:39:50,057 INFO Player switched
+2019-08-12 14:39:50,058 INFO dice is rolled
+2019-08-12 14:40:34,666 INFO You are playing Computer game
+2019-08-12 14:40:34,666 INFO dice is rolled
+2019-08-12 14:40:34,667 INFO Player switched
+2019-08-12 14:40:34,667 INFO dice is rolled
+2019-08-12 14:40:47,356 INFO dice is rolled
+2019-08-12 14:40:58,037 INFO dice is rolled
+2019-08-12 14:46:44,097 INFO You are playing Computer game
+2019-08-12 14:46:44,097 INFO dice is held
+2019-08-12 14:47:16,203 INFO You are playing Computer game
+2019-08-12 14:47:16,203 INFO dice is rolled
+2019-08-12 14:47:16,203 INFO dice is held
+2019-08-12 14:47:48,941 INFO You are playing Computer game
+2019-08-12 14:47:48,941 INFO dice is rolled
+2019-08-12 14:47:48,942 INFO dice is rolled
+2019-08-12 14:47:48,942 INFO dice is held
+2019-08-12 14:47:54,476 INFO dice is rolled
+2019-08-12 14:50:32,924 INFO You are playing Computer game
+2019-08-12 14:50:32,924 INFO dice is held
+2019-08-12 14:50:41,525 INFO dice is held
+2019-08-12 14:50:41,525 INFO dice is held
+2019-08-12 14:50:53,142 INFO dice is rolled
+2019-08-12 14:50:55,268 INFO dice is held
+2019-08-12 14:50:55,269 INFO dice is held
+2019-08-12 14:51:00,165 INFO dice is held
+2019-08-12 14:51:00,165 INFO dice is held
+2019-08-12 14:51:02,766 INFO dice is held
+2019-08-12 14:51:02,766 INFO dice is rolled
+2019-08-12 14:51:02,766 INFO dice is rolled
+2019-08-12 14:51:02,767 INFO dice is rolled
+2019-08-12 14:51:02,767 INFO dice is held
+2019-08-12 14:51:24,544 INFO dice is rolled
+2019-08-12 14:51:29,174 INFO dice is held
+2019-08-12 14:51:29,174 INFO dice is rolled
+2019-08-12 14:51:29,175 INFO dice is held
+2019-08-12 14:51:32,295 INFO dice is held
+2019-08-12 14:51:32,295 INFO dice is held
+2019-08-12 14:51:35,007 INFO dice is rolled
+2019-08-12 14:51:59,231 ERROR Execution interrutpted due to invalid input 
+2019-08-12 14:52:04,625 INFO You are playing Computer game
+2019-08-12 14:52:04,625 INFO dice is held
+2019-08-12 14:52:10,566 INFO dice is rolled
+2019-08-12 14:53:46,589 INFO You are playing Computer game
+2019-08-12 14:53:46,589 INFO dice is held
+2019-08-12 14:53:55,549 INFO dice is rolled
+2019-08-12 14:54:54,154 INFO You are playing Computer game
+2019-08-12 14:55:49,270 INFO You are playing Computer game
+2019-08-12 14:56:34,551 INFO You are playing Computer game
+2019-08-12 14:57:03,957 INFO You are playing Computer game
+2019-08-12 14:57:44,435 INFO You are playing Computer game
+2019-08-12 14:57:56,737 INFO You are playing Computer game
+2019-08-12 14:58:39,549 INFO You are playing Computer game
+2019-08-12 14:58:39,550 INFO dice is rolled
+2019-08-12 14:58:39,550 INFO dice is held
+2019-08-12 14:59:12,709 INFO You are playing Computer game
+2019-08-12 14:59:20,138 INFO dice is rolled
+2019-08-12 14:59:21,906 INFO dice is held
+2019-08-12 14:59:21,906 INFO dice is held
+2019-08-12 14:59:27,225 INFO dice is rolled
+2019-08-12 14:59:51,011 INFO You are playing Computer game
+2019-08-12 14:59:54,691 INFO dice is held
+2019-08-12 14:59:54,691 INFO dice is held
+2019-08-12 15:00:36,646 INFO You are playing Computer game
+2019-08-12 15:01:18,051 INFO You are playing Computer game
+2019-08-12 15:01:27,361 INFO dice is held
+2019-08-12 15:01:27,361 INFO dice is rolled
+2019-08-12 15:01:27,361 INFO dice is held
+2019-08-12 15:01:51,276 INFO dice is held
+2019-08-12 15:01:51,276 INFO dice is held
+2019-08-12 15:01:56,209 INFO dice is rolled
+2019-08-12 15:02:04,992 INFO dice is rolled
+2019-08-12 15:03:11,376 INFO dice is held
+2019-08-12 15:03:11,376 INFO dice is held
+2019-08-12 15:04:13,555 INFO You are playing Computer game
+2019-08-12 15:04:16,209 INFO dice is held
+2019-08-12 15:04:16,209 INFO dice is rolled
+2019-08-12 15:04:16,210 INFO Player switched
+2019-08-12 15:04:16,210 INFO dice is rolled
+2019-08-12 15:08:44,666 INFO You are playing Challenge Game
+2019-08-12 15:09:50,671 INFO dice is held
+2019-08-12 15:09:58,814 INFO dice is held
+2019-08-12 15:10:07,142 INFO dice is held
+2019-08-12 15:10:26,676 INFO You are playing Challenge Game
+2019-08-12 15:10:45,764 INFO You are playing Computer game
+2019-08-12 15:10:56,379 ERROR Execution interrutpted due to invalid input 
+2019-08-12 15:11:12,970 INFO You are playing Challenge Game
+2019-08-12 15:13:04,323 INFO You are playing Challenge Game
+2019-08-12 15:13:06,323 INFO Game is finished
+2019-08-12 15:13:54,416 INFO You are playing Challenge Game
+2019-08-12 15:22:12,740 INFO You are playing Tournament Game
+2019-08-12 15:22:46,027 INFO You are playing Tournament Game
+2019-08-12 15:23:42,255 ERROR Execution interrutpted due to invalid input 
+2019-08-12 15:23:46,830 INFO You are playing Computer game
+2019-08-12 15:23:46,831 INFO dice is held
+2019-08-12 15:24:05,334 INFO You are playing Tournament Game
+2019-08-12 15:24:58,800 INFO You are playing Tournament Game
+2019-08-12 15:26:18,979 INFO You are playing Tournament Game
+2019-08-12 15:27:08,045 ERROR Execution interrutpted due to invalid input 
+2019-08-12 15:27:11,173 INFO You are playing Computer game
+2019-08-12 15:27:32,391 INFO You are playing Tournament Game
+2019-08-12 15:28:16,216 INFO You are playing Tournament Game
+2019-08-12 15:29:11,579 INFO You are playing Tournament Game
+2019-08-12 15:29:55,653 INFO You are playing Tournament Game
+2019-08-12 15:30:31,415 INFO You are playing Computer game
+2019-08-12 15:30:39,702 INFO You are playing Tournament Game
+2019-08-12 15:31:49,313 INFO You are playing Computer game
+2019-08-12 15:31:49,314 INFO dice is held
+2019-08-12 15:32:01,489 INFO You are playing Tournament Game
+2019-08-12 15:32:48,739 INFO You are playing Tournament Game
+2019-08-12 15:32:57,565 INFO dice is rolled
+2019-08-12 15:33:01,766 INFO dice is rolled
+2019-08-12 15:33:05,525 INFO dice is held
+2019-08-12 15:33:11,006 INFO dice is rolled
+2019-08-12 15:33:12,414 INFO dice is rolled
+2019-08-12 15:33:14,406 INFO dice is rolled
+2019-08-12 15:33:17,998 INFO dice is rolled
+2019-08-12 15:33:19,781 INFO dice is rolled
+2019-08-12 15:33:21,999 INFO Player switched
+2019-08-12 15:33:21,999 INFO dice is rolled
+2019-08-12 15:33:27,118 INFO dice is held
+2019-08-12 15:33:29,549 INFO dice is rolled
+2019-08-12 15:33:31,814 INFO dice is rolled
+2019-08-12 15:33:33,023 INFO Player switched
+2019-08-12 15:33:33,023 INFO dice is rolled
+2019-08-12 15:33:34,645 INFO dice is rolled
+2019-08-12 15:33:36,055 INFO dice is rolled
+2019-08-12 15:33:37,126 INFO Player switched
+2019-08-12 15:33:37,126 INFO dice is rolled
+2019-08-12 15:33:40,662 INFO dice is rolled
+2019-08-12 15:33:42,103 INFO dice is rolled
+2019-08-12 15:33:43,447 INFO dice is rolled
+2019-08-12 15:33:44,671 INFO Player switched
+2019-08-12 15:33:44,671 INFO dice is rolled
+2019-08-12 15:33:46,735 INFO dice is held
+2019-08-12 16:07:33,606 INFO You are playing Computer game
+2019-08-12 16:07:33,607 INFO dice is held
+2019-08-12 16:07:52,254 INFO Player switched
+2019-08-12 16:07:52,255 INFO dice is rolled
+2019-08-12 16:07:52,255 INFO dice is rolled
+2019-08-12 16:07:52,255 INFO dice is held
+2019-08-12 16:47:54,623 INFO dice is rolled
+2019-08-12 16:47:55,997 INFO dice is rolled
+2019-08-12 16:47:56,789 INFO dice is rolled
+2019-08-12 16:47:57,430 INFO dice is rolled
+2019-08-12 16:47:58,029 INFO dice is rolled
+2019-08-12 16:47:58,589 INFO dice is rolled
+2019-08-12 16:47:59,101 INFO dice is rolled
+2019-08-12 16:47:59,605 INFO dice is rolled
+2019-08-12 16:48:00,101 INFO dice is rolled
+2019-08-12 16:48:00,613 INFO dice is rolled
+2019-08-12 16:48:01,164 INFO dice is rolled
+2019-08-12 16:48:01,646 INFO Player switched
+2019-08-12 16:48:01,646 INFO dice is rolled
+2019-08-12 16:48:01,647 INFO dice is held
+2019-08-12 16:48:02,078 INFO dice is rolled
+2019-08-12 08:44:41,293 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:44:45,918 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:44:47,611 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:44:49,203 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:44:55,118 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:44:59,500 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:45:03,926 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:45:10,356 INFO You are playing Computer game
+2019-08-12 08:45:10,357 INFO dice is held
+2019-08-12 08:45:42,482 INFO dice is rolled
+2019-08-12 08:45:58,508 INFO dice is rolled
+2019-08-12 08:46:07,091 INFO dice is rolled
+2019-08-12 08:46:08,975 INFO dice is rolled
+2019-08-12 08:46:12,303 INFO dice is rolled
+2019-08-12 08:46:13,615 INFO dice is rolled
+2019-08-12 08:46:14,777 INFO dice is rolled
+2019-08-12 08:46:15,819 INFO dice is rolled
+2019-08-12 08:46:16,953 INFO dice is rolled
+2019-08-12 08:46:17,846 INFO dice is rolled
+2019-08-12 08:46:18,897 INFO dice is rolled
+2019-08-12 08:46:19,911 INFO dice is rolled
+2019-08-12 08:46:20,847 INFO dice is rolled
+2019-08-12 08:46:21,884 INFO dice is rolled
+2019-08-12 08:46:22,800 INFO dice is rolled
+2019-08-12 08:46:23,753 INFO dice is rolled
+2019-08-12 08:48:25,836 INFO You are playing Computer game
+2019-08-12 08:50:25,679 INFO You are playing Computer game
+2019-08-12 08:50:28,344 INFO Player switched
+2019-08-12 08:50:28,344 INFO dice is rolled
+2019-08-12 08:50:28,344 INFO dice is held
+2019-08-12 08:51:00,918 INFO You are playing Computer game
+2019-08-12 08:51:00,918 INFO Player switched
+2019-08-12 08:51:00,919 INFO dice is rolled
+2019-08-12 08:51:03,513 INFO Player switched
+2019-08-12 08:51:03,513 INFO dice is rolled
+2019-08-12 08:51:03,513 INFO Player switched
+2019-08-12 08:51:03,513 INFO dice is rolled
+2019-08-12 08:51:40,335 INFO You are playing Computer game
+2019-08-12 08:51:40,335 INFO dice is rolled
+2019-08-12 08:51:40,335 INFO dice is held
+2019-08-12 08:52:07,639 INFO dice is rolled
+2019-08-12 08:52:13,053 INFO dice is rolled
+2019-08-12 08:52:17,760 INFO dice is rolled
+2019-08-12 08:52:18,867 INFO dice is rolled
+2019-08-12 08:52:19,714 INFO dice is rolled
+2019-08-12 08:52:20,419 INFO dice is rolled
+2019-08-12 08:52:21,213 INFO dice is rolled
+2019-08-12 08:52:22,012 INFO dice is rolled
+2019-08-12 08:52:22,835 INFO dice is rolled
+2019-08-12 08:52:23,625 INFO Player switched
+2019-08-12 08:52:23,625 INFO dice is rolled
+2019-08-12 08:52:23,625 INFO dice is rolled
+2019-08-12 08:52:23,626 INFO dice is held
+2019-08-12 08:52:26,518 INFO Player switched
+2019-08-12 08:52:26,519 INFO dice is rolled
+2019-08-12 08:52:26,519 INFO dice is held
+2019-08-12 08:52:28,421 INFO dice is rolled
+2019-08-12 08:52:30,379 INFO dice is rolled
+2019-08-12 08:52:30,923 INFO dice is rolled
+2019-08-12 08:52:31,314 INFO dice is rolled
+2019-08-12 08:52:31,701 INFO dice is rolled
+2019-08-12 08:52:32,515 INFO Player switched
+2019-08-12 08:52:32,515 INFO dice is rolled
+2019-08-12 08:52:32,515 INFO dice is rolled
+2019-08-12 08:52:32,515 INFO dice is held
+2019-08-12 08:52:34,251 INFO dice is rolled
+2019-08-12 08:52:34,847 INFO Player switched
+2019-08-12 08:52:34,848 INFO dice is rolled
+2019-08-12 08:52:34,848 INFO dice is held
+2019-08-12 08:52:37,045 INFO dice is held
+2019-08-12 08:52:37,045 INFO dice is rolled
+2019-08-12 08:52:37,045 INFO dice is rolled
+2019-08-12 08:52:37,046 INFO dice is held
+2019-08-12 08:52:37,307 INFO dice is held
+2019-08-12 08:52:37,307 INFO dice is rolled
+2019-08-12 08:52:37,307 INFO dice is held
+2019-08-12 08:52:37,588 INFO dice is held
+2019-08-12 08:52:37,589 INFO Player switched
+2019-08-12 08:52:37,589 INFO dice is rolled
+2019-08-12 08:52:37,850 INFO dice is held
+2019-08-12 08:52:37,850 INFO dice is held
+2019-08-12 08:52:38,128 INFO dice is held
+2019-08-12 08:52:38,128 INFO Player switched
+2019-08-12 08:52:38,128 INFO dice is rolled
+2019-08-12 08:52:38,437 INFO dice is held
+2019-08-12 08:52:38,437 INFO dice is held
+2019-08-12 08:52:39,650 INFO dice is held
+2019-08-12 08:52:39,650 INFO dice is rolled
+2019-08-12 08:52:39,651 INFO dice is rolled
+2019-08-12 08:52:39,651 INFO dice is held
+2019-08-12 08:52:40,092 INFO dice is held
+2019-08-12 08:52:40,092 INFO Player switched
+2019-08-12 08:52:40,092 INFO dice is rolled
+2019-08-12 08:52:40,404 INFO dice is held
+2019-08-12 08:52:40,404 INFO dice is rolled
+2019-08-12 08:52:40,404 INFO dice is rolled
+2019-08-12 08:52:40,405 INFO dice is rolled
+2019-08-12 08:52:40,405 INFO dice is rolled
+2019-08-12 08:52:40,405 INFO dice is rolled
+2019-08-12 08:52:40,405 INFO Player switched
+2019-08-12 08:52:40,406 INFO dice is rolled
+2019-08-12 08:52:40,712 INFO dice is held
+2019-08-12 08:52:40,713 INFO dice is held
+2019-08-12 08:52:41,066 INFO dice is held
+2019-08-12 08:52:41,066 INFO dice is held
+2019-08-12 08:52:41,807 INFO dice is held
+2019-08-12 08:52:41,807 INFO dice is held
+2019-08-12 08:52:42,317 INFO dice is held
+2019-08-12 08:52:42,318 INFO dice is rolled
+2019-08-12 08:52:42,318 INFO dice is held
+2019-08-12 08:52:42,577 INFO dice is held
+2019-08-12 08:52:42,577 INFO dice is held
+2019-08-12 08:52:42,851 INFO dice is held
+2019-08-12 08:52:42,852 INFO dice is held
+2019-08-12 08:52:45,499 INFO dice is held
+2019-08-12 08:52:45,500 INFO dice is held
+2019-08-12 08:52:45,841 INFO dice is held
+2019-08-12 08:52:45,841 INFO Player switched
+2019-08-12 08:52:45,841 INFO dice is rolled
+2019-08-12 08:52:46,126 INFO dice is held
+2019-08-12 08:52:46,126 INFO dice is rolled
+2019-08-12 08:52:46,126 INFO dice is held
+2019-08-12 08:52:47,197 INFO dice is held
+2019-08-12 08:52:47,197 INFO Player switched
+2019-08-12 08:52:47,197 INFO dice is rolled
+2019-08-12 08:52:48,943 INFO dice is rolled
+2019-08-12 08:52:49,739 INFO dice is rolled
+2019-08-12 08:52:51,290 INFO dice is rolled
+2019-08-12 08:52:51,815 INFO dice is rolled
+2019-08-12 08:52:52,267 INFO dice is rolled
+2019-08-12 08:52:52,624 INFO dice is rolled
+2019-08-12 08:52:53,267 INFO Player switched
+2019-08-12 08:52:53,267 INFO dice is rolled
+2019-08-12 08:52:53,267 INFO dice is rolled
+2019-08-12 08:52:53,268 INFO dice is held
+2019-08-12 08:52:54,031 INFO Player switched
+2019-08-12 08:52:54,031 INFO dice is rolled
+2019-08-12 08:52:54,031 INFO dice is held
+2019-08-12 08:52:54,791 INFO dice is rolled
+2019-08-12 08:52:55,159 INFO Player switched
+2019-08-12 08:52:55,160 INFO dice is rolled
+2019-08-12 08:52:55,160 INFO dice is rolled
+2019-08-12 08:52:55,160 INFO dice is rolled
+2019-08-12 08:52:55,160 INFO dice is rolled
+2019-08-12 08:52:55,160 INFO dice is held
+2019-08-12 08:52:55,480 INFO dice is rolled
+2019-08-12 08:52:56,329 INFO dice is rolled
+2019-08-12 08:52:57,107 INFO dice is rolled
+2019-08-12 08:52:57,621 INFO dice is rolled
+2019-08-12 08:52:58,227 INFO dice is rolled
+2019-08-12 08:52:58,811 INFO dice is rolled
+2019-08-12 08:52:59,411 INFO dice is rolled
+2019-08-12 08:53:00,198 INFO Player switched
+2019-08-12 08:53:00,198 INFO dice is rolled
+2019-08-12 08:53:00,198 INFO dice is rolled
+2019-08-12 08:53:00,199 INFO dice is rolled
+2019-08-12 08:53:00,199 INFO dice is rolled
+2019-08-12 08:53:00,199 INFO dice is held
+2019-08-12 08:53:01,919 INFO dice is rolled
+2019-08-12 08:53:02,444 INFO dice is rolled
+2019-08-12 08:53:02,794 INFO dice is rolled
+2019-08-12 08:53:03,155 INFO dice is rolled
+2019-08-12 08:53:03,507 INFO dice is rolled
+2019-08-12 08:53:03,859 INFO dice is rolled
+2019-08-12 08:53:04,236 INFO dice is rolled
+2019-08-12 08:53:04,593 INFO dice is rolled
+2019-08-12 08:53:05,441 INFO Player switched
+2019-08-12 08:53:05,441 INFO dice is rolled
+2019-08-12 08:53:05,441 INFO dice is held
+2019-08-12 08:53:06,054 INFO dice is rolled
+2019-08-12 08:53:16,961 INFO You are playing Challenge Game
+2019-08-12 08:53:35,274 INFO Player switched
+2019-08-12 08:53:35,274 INFO dice is rolled
+2019-08-12 08:53:35,703 INFO Player switched
+2019-08-12 08:53:35,703 INFO dice is rolled
+2019-08-12 08:53:36,819 INFO dice is rolled
+2019-08-12 08:53:37,725 INFO dice is rolled
+2019-08-12 08:53:38,521 INFO dice is rolled
+2019-08-12 08:53:39,378 INFO dice is rolled
+2019-08-12 08:53:40,493 INFO dice is rolled
+2019-08-12 08:53:42,467 INFO dice is rolled
+2019-08-12 08:53:43,330 INFO dice is rolled
+2019-08-12 08:53:44,080 INFO dice is rolled
+2019-08-12 08:53:44,750 INFO dice is rolled
+2019-08-12 08:53:45,545 INFO dice is rolled
+2019-08-12 08:53:46,302 INFO dice is rolled
+2019-08-12 08:53:47,115 INFO dice is rolled
+2019-08-12 08:53:48,035 INFO dice is rolled
+2019-08-12 08:53:48,932 INFO dice is rolled
+2019-08-12 08:53:49,708 INFO dice is rolled
+2019-08-12 08:53:50,522 INFO dice is rolled
+2019-08-12 08:53:51,202 INFO dice is rolled
+2019-08-12 08:53:51,976 INFO dice is rolled
+2019-08-12 08:53:52,720 INFO dice is rolled
+2019-08-12 08:53:53,623 INFO dice is rolled
+2019-08-12 08:53:54,462 INFO dice is rolled
+2019-08-12 08:53:55,279 INFO dice is rolled
+2019-08-12 08:53:56,185 INFO Player switched
+2019-08-12 08:53:56,185 INFO dice is rolled
+2019-08-12 08:54:40,056 INFO Player switched
+2019-08-12 08:54:40,056 INFO dice is rolled
+2019-08-12 08:54:40,300 INFO dice is rolled
+2019-08-12 08:54:40,491 INFO dice is rolled
+2019-08-12 08:54:40,669 INFO dice is rolled
+2019-08-12 08:54:40,827 INFO dice is rolled
+2019-08-12 08:54:51,331 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:59:47,767 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:59:51,092 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:59:52,694 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:59:53,762 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:59:56,625 ERROR Execution interrutpted due to invalid input 
+2019-08-12 08:59:59,210 ERROR Execution interrutpted due to invalid input 
+2019-08-12 09:00:02,172 ERROR Execution interrutpted due to invalid input 
+2019-08-12 09:00:06,346 ERROR Execution interrutpted due to invalid input 
+2019-08-12 09:00:09,004 INFO You are playing Computer game
+2019-08-12 09:00:21,512 INFO You are playing Tournament Game
+2019-08-12 09:00:33,111 INFO Player switched
+2019-08-12 09:00:33,111 INFO dice is rolled
+2019-08-12 09:00:36,210 INFO dice is rolled
+2019-08-12 09:00:37,483 INFO dice is rolled
+2019-08-12 09:00:38,226 INFO dice is rolled
+2019-08-12 09:00:38,899 INFO dice is rolled
+2019-08-12 09:00:39,764 INFO Player switched
+2019-08-12 09:00:39,764 INFO dice is rolled
+2019-08-12 09:00:40,371 INFO dice is rolled
+2019-08-12 09:00:40,966 INFO dice is rolled
+2019-08-12 09:00:41,240 INFO Player switched
+2019-08-12 09:00:41,240 INFO dice is rolled
+2019-08-12 09:00:41,484 INFO dice is rolled
+2019-08-12 09:00:41,722 INFO dice is rolled
+2019-08-12 09:00:41,954 INFO Player switched
+2019-08-12 09:00:41,954 INFO dice is rolled
+2019-08-12 09:00:42,187 INFO dice is rolled
+2019-08-12 09:00:42,419 INFO dice is rolled
+2019-08-12 09:00:43,232 INFO Player switched
+2019-08-12 09:00:43,232 INFO dice is rolled
+2019-08-12 09:00:43,559 INFO dice is rolled
+2019-08-12 09:00:43,859 INFO Player switched
+2019-08-12 09:00:43,860 INFO dice is rolled
+2019-08-12 09:00:44,146 INFO dice is rolled
+2019-08-12 09:00:44,669 INFO dice is rolled
+2019-08-12 09:00:44,972 INFO dice is rolled
+2019-08-12 09:00:45,209 INFO dice is rolled
+2019-08-12 09:00:45,990 INFO dice is rolled
+2019-08-12 09:01:05,846 INFO dice is held
+2019-08-12 09:01:09,240 INFO dice is held
+2019-08-12 09:01:09,515 INFO dice is held
+2019-08-12 09:01:09,857 INFO dice is held
+2019-08-12 09:02:50,561 INFO You are playing Tournament Game
+2019-08-12 09:03:07,854 INFO dice is rolled
+2019-08-12 09:03:08,379 INFO dice is rolled
+2019-08-12 09:03:08,750 INFO dice is rolled
+2019-08-12 09:03:09,039 INFO dice is rolled
+2019-08-12 09:03:09,299 INFO dice is rolled
+2019-08-12 09:03:09,863 INFO Player switched
+2019-08-12 09:03:09,863 INFO dice is rolled
+2019-08-12 09:03:10,324 INFO dice is rolled
+2019-08-12 09:03:11,256 INFO dice is rolled
+2019-08-12 09:03:11,619 INFO dice is rolled
+2019-08-12 09:03:11,896 INFO dice is rolled
+2019-08-12 09:03:12,892 INFO dice is rolled
+2019-08-12 09:03:16,608 INFO dice is rolled
+2019-08-12 09:03:18,502 INFO dice is rolled
+2019-08-12 09:03:27,280 INFO dice is rolled
+2019-08-12 09:03:29,210 INFO dice is rolled
+2019-08-12 09:03:31,547 INFO dice is rolled
+2019-08-12 09:03:32,969 INFO dice is rolled
+2019-08-12 09:03:44,224 INFO dice is rolled
+2019-08-12 09:03:59,505 INFO dice is rolled
+2019-08-12 09:04:01,941 INFO dice is rolled
+2019-08-12 09:04:03,141 INFO dice is rolled
+2019-08-12 09:04:04,229 INFO dice is rolled
+2019-08-12 09:04:05,722 INFO dice is rolled
+2019-08-12 09:04:18,332 INFO Player switched
+2019-08-12 09:04:18,332 INFO dice is rolled
+2019-08-12 09:04:24,780 INFO dice is rolled
+2019-08-12 09:04:38,487 INFO dice is rolled
+2019-08-12 09:04:41,143 INFO dice is rolled
+2019-08-12 09:04:42,387 INFO dice is rolled
+2019-08-12 09:04:43,332 INFO dice is rolled
+2019-08-12 09:04:44,165 INFO Player switched
+2019-08-12 09:04:44,165 INFO dice is rolled
+2019-08-12 09:04:45,133 INFO Player switched
+2019-08-12 09:04:45,134 INFO dice is rolled
+2019-08-12 09:04:46,196 INFO dice is rolled
+2019-08-12 09:04:46,845 INFO dice is rolled
+2019-08-12 09:04:47,204 INFO dice is rolled
+2019-08-12 09:04:47,477 INFO dice is rolled
+2019-08-12 09:04:47,715 INFO dice is rolled
+2019-08-12 09:04:47,930 INFO dice is rolled
+2019-08-12 09:04:48,123 INFO Player switched
+2019-08-12 09:04:48,123 INFO dice is rolled
+2019-08-12 21:00:22,173 INFO You are playing Computer game
+2019-08-12 21:00:22,173 INFO dice is rolled
+2019-08-12 21:00:22,173 INFO dice is held
+2019-08-12 21:00:26,869 INFO Player switched
+2019-08-12 21:00:26,869 INFO dice is rolled
+2019-08-12 21:00:26,870 INFO dice is held
+2019-08-12 21:00:35,069 INFO dice is rolled
+2019-08-12 21:00:36,903 INFO dice is held
+2019-08-12 21:00:36,903 INFO dice is held
+2019-08-12 21:00:40,759 INFO dice is held
+2019-08-12 21:00:40,759 INFO dice is held
+2019-08-12 21:00:42,766 INFO dice is rolled
+2019-08-12 21:00:44,739 INFO dice is rolled
+2019-08-12 21:00:46,267 INFO dice is rolled
+2019-08-12 21:00:47,525 INFO dice is rolled
+2019-08-12 21:00:48,162 INFO dice is rolled
+2019-08-12 21:00:48,862 INFO dice is rolled
+2019-08-12 21:00:49,483 INFO dice is rolled
+2019-08-12 21:00:50,144 INFO dice is rolled
+2019-08-12 21:00:50,788 INFO dice is rolled
+2019-08-12 21:00:51,410 INFO dice is rolled
+2019-08-12 21:00:52,039 INFO dice is rolled
+2019-08-12 21:00:52,663 INFO dice is rolled
+2019-08-12 21:00:53,282 INFO dice is rolled
+2019-08-12 21:00:53,886 INFO dice is rolled
+2019-08-12 21:00:54,508 INFO Player switched
+2019-08-12 21:00:54,508 INFO dice is rolled
+2019-08-12 21:00:54,508 INFO dice is held
+2019-08-12 21:00:55,144 INFO dice is rolled
+2019-08-12 21:01:03,813 INFO dice is rolled
+2019-08-12 21:01:04,351 INFO dice is rolled
+2019-08-12 21:01:04,816 INFO dice is rolled
+2019-08-12 21:01:05,249 INFO dice is rolled
+2019-08-12 21:01:05,712 INFO dice is rolled
+2019-08-12 21:01:06,208 INFO dice is rolled
+2019-08-12 21:01:06,660 INFO dice is rolled
+2019-08-12 21:01:07,148 INFO Player switched
+2019-08-12 21:01:07,148 INFO dice is rolled
+2019-08-12 21:01:07,148 INFO dice is held
+2019-08-12 21:01:07,596 INFO dice is rolled
+2019-08-12 21:01:08,089 INFO dice is rolled
+2019-08-12 21:01:08,601 INFO dice is rolled
+2019-08-12 21:01:09,152 INFO dice is rolled
+2019-08-12 21:01:09,673 INFO dice is rolled
+2019-08-12 21:01:10,163 INFO dice is rolled
+2019-08-12 21:01:13,948 INFO Player switched
+2019-08-12 21:01:13,949 INFO dice is rolled
+2019-08-12 21:01:13,949 INFO dice is held
+2019-08-12 21:01:26,024 INFO dice is rolled
+2019-08-12 21:01:27,743 INFO dice is held
+2019-08-12 21:01:27,743 INFO dice is rolled
+2019-08-12 21:01:27,743 INFO dice is rolled
+2019-08-12 21:01:27,743 INFO dice is held
+2019-08-12 21:01:31,831 INFO dice is rolled
+2019-08-12 21:01:32,911 INFO Player switched
+2019-08-12 21:01:32,911 INFO dice is rolled
+2019-08-12 21:01:32,911 INFO dice is held
+2019-08-12 21:01:33,500 INFO dice is rolled
+2019-08-12 21:01:34,277 INFO dice is rolled
+2019-08-12 21:01:34,903 INFO Player switched
+2019-08-12 21:01:34,904 INFO dice is rolled
+2019-08-12 21:01:34,904 INFO dice is held
+2019-08-12 21:01:35,538 INFO Player switched
+2019-08-12 21:01:35,539 INFO dice is rolled
+2019-08-12 21:01:35,539 INFO dice is held
+2019-08-12 21:01:36,355 INFO dice is rolled
+2019-08-12 21:01:36,953 INFO dice is rolled
+2019-08-12 21:01:37,550 INFO dice is rolled
+2019-08-12 21:01:38,080 INFO Player switched
+2019-08-12 21:01:38,080 INFO dice is rolled
+2019-08-12 21:01:38,080 INFO dice is held
+2019-08-12 21:01:38,650 INFO dice is rolled
+2019-08-12 21:01:39,196 INFO dice is rolled
+2019-08-12 21:01:39,672 INFO dice is rolled
+2019-08-12 21:01:40,205 INFO dice is rolled
+2019-08-12 21:01:40,653 INFO dice is rolled
+2019-08-12 21:01:41,052 INFO dice is rolled
+2019-08-12 21:01:41,455 INFO Player switched
+2019-08-12 21:01:41,455 INFO dice is rolled
+2019-08-12 21:01:41,456 INFO dice is held
+2019-08-12 21:01:41,860 INFO dice is rolled
+2019-08-12 21:01:42,229 INFO dice is rolled
+2019-08-12 21:01:42,623 INFO dice is rolled
+2019-08-12 21:01:42,992 INFO dice is rolled
+2019-08-12 21:01:43,350 INFO dice is rolled
+2019-08-12 21:01:43,700 INFO dice is rolled
+2019-08-12 21:01:44,050 INFO dice is rolled
+2019-08-12 21:01:44,423 INFO dice is rolled
+2019-08-12 21:01:45,089 INFO Player switched
+2019-08-12 21:01:45,089 INFO dice is rolled
+2019-08-12 21:01:45,089 INFO dice is held
+2019-08-12 21:01:45,545 INFO dice is rolled
+2019-08-12 21:01:45,929 INFO dice is rolled
+2019-08-12 21:01:46,778 INFO dice is rolled
+2019-08-12 21:01:47,407 INFO dice is rolled
+2019-08-12 21:01:47,902 INFO dice is rolled
+2019-08-12 21:01:48,429 INFO dice is rolled
+2019-08-12 21:01:48,900 INFO dice is rolled
+2019-08-12 21:01:53,765 INFO dice is rolled
+2019-08-12 21:01:54,481 INFO Player switched
+2019-08-12 21:01:54,481 INFO dice is rolled
+2019-08-12 21:01:54,481 INFO dice is rolled
+2019-08-12 21:01:54,481 INFO Player switched
+2019-08-12 21:01:54,481 INFO dice is rolled
+2019-08-12 21:01:55,183 INFO dice is rolled
+2019-08-12 21:01:56,822 INFO dice is rolled
+2019-08-12 21:01:57,720 INFO Player switched
+2019-08-12 21:01:57,720 INFO dice is rolled
+2019-08-12 21:01:57,720 INFO dice is held
+2019-08-12 21:01:58,772 INFO dice is rolled
+2019-08-12 21:01:59,769 INFO dice is rolled
+2019-08-12 21:02:00,836 INFO dice is rolled
+2019-08-12 21:02:01,799 INFO Player switched
+2019-08-12 21:02:01,800 INFO dice is rolled
+2019-08-12 21:02:01,800 INFO dice is held
+2019-08-12 21:02:02,823 INFO dice is rolled
+2019-08-12 21:02:03,747 INFO dice is rolled
+2019-08-12 21:02:04,711 INFO dice is rolled
+2019-08-12 21:02:05,492 INFO dice is rolled
+2019-08-12 21:02:06,375 INFO dice is rolled
+2019-08-12 21:02:07,010 INFO dice is rolled
+2019-08-12 21:02:07,570 INFO dice is rolled
+2019-08-12 21:02:08,108 INFO dice is rolled
+2019-08-12 21:02:08,634 INFO dice is rolled
+2019-08-12 21:02:09,181 INFO Player switched
+2019-08-12 21:02:09,181 INFO dice is rolled
+2019-08-12 21:02:09,181 INFO dice is held
+2019-08-12 21:02:09,739 INFO dice is rolled
+2019-08-12 21:02:10,996 INFO Player switched
+2019-08-12 21:02:10,996 INFO dice is rolled
+2019-08-12 21:02:10,996 INFO Player switched
+2019-08-12 21:02:10,996 INFO dice is rolled
+2019-08-12 21:02:11,950 INFO dice is rolled
+2019-08-12 21:02:12,655 INFO dice is rolled
+2019-08-12 21:02:13,247 INFO dice is rolled
+2019-08-12 21:02:13,879 INFO dice is rolled
+2019-08-12 21:02:14,524 INFO dice is rolled
+2019-08-12 21:02:15,164 INFO dice is rolled
+2019-08-12 21:02:15,673 INFO dice is rolled
+2019-08-12 21:02:16,152 INFO dice is rolled
+2019-08-12 21:02:17,018 INFO Player switched
+2019-08-12 21:02:17,018 INFO dice is rolled
+2019-08-12 21:02:17,019 INFO dice is rolled
+2019-08-12 21:02:17,019 INFO dice is held
+2019-08-12 21:02:17,527 INFO dice is rolled
+2019-08-12 21:02:18,191 INFO dice is rolled
+2019-08-12 21:02:18,632 INFO dice is rolled
+2019-08-12 21:02:19,163 INFO dice is rolled
+2019-08-12 21:02:19,568 INFO Player switched
+2019-08-12 21:02:19,568 INFO dice is rolled
+2019-08-12 21:02:19,568 INFO dice is rolled
+2019-08-12 21:02:19,569 INFO dice is held
+2019-08-12 21:02:20,297 INFO dice is rolled
+2019-08-12 21:02:20,867 INFO dice is rolled
+2019-08-12 21:02:21,327 INFO dice is rolled
+2019-08-12 21:02:21,777 INFO dice is rolled
+2019-08-12 21:02:22,281 INFO dice is rolled
+2019-08-12 21:02:22,728 INFO dice is rolled
+2019-08-12 21:02:23,201 INFO dice is rolled
+2019-08-12 21:02:23,691 INFO dice is rolled
+2019-08-12 21:02:24,159 INFO dice is rolled
+2019-08-12 21:02:24,641 INFO dice is rolled
+2019-08-12 21:02:25,096 INFO dice is rolled
+2019-08-12 21:02:25,527 INFO dice is rolled
+2019-08-12 21:02:25,970 INFO dice is rolled
+2019-08-12 21:02:26,410 INFO dice is rolled
+2019-08-12 21:02:26,925 INFO dice is rolled
+2019-08-12 21:02:27,410 INFO dice is rolled
+2019-08-12 21:02:27,865 INFO dice is rolled
+2019-08-12 21:02:28,386 INFO Player switched
+2019-08-12 21:02:28,387 INFO dice is rolled
+2019-08-12 21:02:28,387 INFO dice is held
+2019-08-12 21:02:28,867 INFO dice is rolled
+2019-08-12 21:02:30,147 INFO dice is rolled
+2019-08-12 21:02:30,668 INFO dice is rolled
+2019-08-12 21:02:31,105 INFO dice is rolled
+2019-08-12 21:02:31,552 INFO dice is rolled
+2019-08-12 21:02:32,018 INFO dice is rolled
+2019-08-12 21:02:32,474 INFO dice is rolled
+2019-08-12 21:02:32,940 INFO dice is rolled
+2019-08-12 21:02:33,394 INFO Player switched
+2019-08-12 21:02:33,394 INFO dice is rolled
+2019-08-12 21:02:33,394 INFO dice is held
+2019-08-12 21:02:36,645 INFO dice is rolled
+2019-08-12 21:02:37,136 INFO Player switched
+2019-08-12 21:02:37,136 INFO dice is rolled
+2019-08-12 21:02:37,136 INFO Player switched
+2019-08-12 21:02:37,136 INFO dice is rolled
+2019-08-12 21:02:37,584 INFO dice is rolled
+2019-08-12 21:02:38,032 INFO dice is rolled
+2019-08-12 21:02:38,442 INFO dice is rolled
+2019-08-12 21:02:38,917 INFO dice is rolled
+2019-08-12 21:02:39,316 INFO dice is rolled
+2019-08-12 21:02:39,730 INFO dice is rolled
+2019-08-12 21:02:40,537 INFO dice is rolled
+2019-08-12 21:02:41,200 INFO dice is rolled
+2019-08-12 21:02:41,795 INFO dice is rolled
+2019-08-12 21:02:42,349 INFO dice is rolled
+2019-08-12 21:02:42,925 INFO Player switched
+2019-08-12 21:02:42,925 INFO dice is rolled
+2019-08-12 21:02:42,925 INFO dice is rolled
+2019-08-12 21:02:42,926 INFO dice is held
+2019-08-12 21:02:43,483 INFO dice is rolled
+2019-08-12 21:02:47,047 INFO Player switched
+2019-08-12 21:02:47,047 INFO dice is rolled
+2019-08-12 21:02:47,047 INFO dice is held
+2019-08-12 21:02:48,012 INFO dice is rolled
+2019-08-12 21:02:48,640 INFO dice is rolled
+2019-08-12 21:02:49,182 INFO dice is rolled
+2019-08-12 21:02:49,667 INFO dice is rolled
+2019-08-12 21:02:50,180 INFO dice is rolled
+2019-08-12 21:02:50,623 INFO dice is rolled
+2019-08-12 21:02:51,088 INFO dice is rolled
+2019-08-12 21:02:51,515 INFO dice is rolled
+2019-08-12 21:02:52,006 INFO dice is rolled
+2019-08-12 21:02:52,481 INFO dice is rolled
+2019-08-12 21:02:52,993 INFO dice is rolled
+2019-08-12 21:02:53,479 INFO dice is rolled
+2019-08-12 21:02:53,928 INFO Player switched
+2019-08-12 21:02:53,928 INFO dice is rolled
+2019-08-12 21:02:53,928 INFO dice is held
+2019-08-12 21:02:54,423 INFO dice is rolled
+2019-08-12 21:02:55,666 INFO dice is rolled
+2019-08-12 21:02:57,804 INFO dice is rolled
+2019-08-12 21:03:01,143 INFO dice is rolled
+2019-08-12 21:03:01,920 INFO dice is rolled
+2019-08-12 21:03:03,044 INFO dice is rolled
+2019-08-12 21:03:03,733 INFO Player switched
+2019-08-12 21:03:03,733 INFO dice is rolled
+2019-08-12 21:03:03,733 INFO dice is rolled
+2019-08-12 21:03:03,733 INFO dice is held
+2019-08-12 21:03:04,321 INFO dice is rolled
+2019-08-12 21:03:05,070 INFO dice is rolled
+2019-08-12 21:03:05,723 INFO dice is rolled
+2019-08-12 21:03:06,350 INFO dice is rolled
+2019-08-12 21:03:06,899 INFO dice is rolled
+2019-08-12 21:03:07,445 INFO dice is rolled
+2019-08-12 21:03:07,963 INFO dice is rolled
+2019-08-12 21:03:08,493 INFO dice is rolled
+2019-08-12 21:03:09,011 INFO dice is rolled
+2019-08-12 21:03:09,574 INFO dice is rolled
+2019-08-12 21:03:10,084 INFO dice is rolled
+2019-08-12 21:03:10,589 INFO dice is rolled
+2019-08-12 21:03:12,103 INFO dice is rolled
+2019-08-12 21:03:13,304 INFO dice is rolled
+2019-08-12 21:03:14,565 INFO dice is rolled
+2019-08-12 21:03:15,231 INFO dice is rolled
+2019-08-12 21:03:15,954 INFO dice is rolled
+2019-08-12 21:03:16,660 INFO dice is rolled
+2019-08-12 21:03:17,392 INFO Player switched
+2019-08-12 21:03:17,392 INFO dice is rolled
+2019-08-12 21:03:17,392 INFO dice is held
+2019-08-12 21:03:19,878 INFO dice is rolled
+2019-08-12 21:03:20,421 INFO dice is rolled
+2019-08-12 21:03:20,887 INFO dice is rolled
+2019-08-12 21:03:21,322 INFO Player switched
+2019-08-12 21:03:21,322 INFO dice is rolled
+2019-08-12 21:03:21,322 INFO dice is held
+2019-08-12 21:03:21,753 INFO dice is rolled
+2019-08-12 21:03:22,175 INFO dice is rolled
+2019-08-12 21:03:22,628 INFO dice is rolled
+2019-08-12 21:03:23,030 INFO dice is rolled
+2019-08-12 21:03:23,495 INFO dice is rolled
+2019-08-12 21:03:23,901 INFO dice is rolled
+2019-08-12 21:03:24,342 INFO dice is rolled
+2019-08-12 21:03:24,766 INFO dice is rolled
+2019-08-12 21:03:25,218 INFO dice is rolled
+2019-08-12 21:03:25,695 INFO dice is rolled
+2019-08-12 21:03:26,162 INFO dice is rolled
+2019-08-12 21:03:26,613 INFO dice is rolled
+2019-08-12 21:03:27,046 INFO dice is rolled
+2019-08-12 21:03:27,517 INFO dice is rolled
+2019-08-12 21:03:28,178 INFO dice is rolled
+2019-08-12 21:03:28,772 INFO dice is rolled
+2019-08-12 21:03:29,275 INFO dice is rolled
+2019-08-12 21:03:29,816 INFO dice is rolled
+2019-08-12 21:03:30,425 INFO dice is rolled
+2019-08-12 21:03:30,965 INFO dice is rolled
+2019-08-12 21:03:31,511 INFO dice is rolled
+2019-08-12 21:03:31,984 INFO dice is rolled
+2019-08-12 21:03:32,541 INFO dice is rolled
+2019-08-12 21:03:33,457 INFO dice is rolled
+2019-08-12 21:03:34,099 INFO dice is rolled
+2019-08-12 21:03:34,702 INFO dice is rolled
+2019-08-12 21:05:22,118 INFO You are playing Computer game
+2019-08-12 21:05:22,118 INFO dice is rolled
+2019-08-12 21:05:22,118 INFO dice is rolled
+2019-08-12 21:05:22,118 INFO Game is finished
+2019-08-12 21:05:32,868 INFO You are playing Computer game
+2019-08-12 21:05:32,868 INFO dice is rolled
+2019-08-12 21:05:32,869 INFO dice is rolled
+2019-08-12 21:05:32,869 INFO Game is finished
+2019-08-12 21:05:46,823 INFO You are playing Computer game
+2019-08-12 21:05:50,144 INFO dice is rolled
+2019-08-12 21:05:51,403 INFO dice is rolled
+2019-08-12 21:05:51,404 INFO Game is finished
+2019-08-12 21:06:46,431 INFO You are playing Computer game
+2019-08-12 21:06:46,431 INFO dice is rolled
+2019-08-12 21:06:46,432 INFO dice is rolled
+2019-08-12 21:06:46,432 INFO dice is rolled
+2019-08-12 21:06:46,432 INFO dice is rolled
+2019-08-12 21:06:46,432 INFO dice is held
+2019-08-12 21:06:51,917 INFO dice is rolled
+2019-08-12 21:06:52,377 INFO dice is rolled
+2019-08-12 21:06:52,786 INFO dice is rolled
+2019-08-12 21:06:53,181 INFO dice is rolled
+2019-08-12 21:06:53,557 INFO dice is rolled
+2019-08-12 21:06:53,960 INFO dice is rolled
+2019-08-12 21:06:54,342 INFO dice is rolled
+2019-08-12 21:06:54,725 INFO dice is rolled
+2019-08-12 21:06:55,071 INFO dice is rolled
+2019-08-12 21:06:55,411 INFO dice is rolled
+2019-08-12 21:06:55,792 INFO dice is rolled
+2019-08-12 21:06:56,144 INFO dice is rolled
+2019-08-12 21:06:56,515 INFO dice is rolled
+2019-08-12 21:06:56,901 INFO dice is rolled
+2019-08-12 21:06:57,278 INFO dice is rolled
+2019-08-12 21:06:57,646 INFO dice is rolled
+2019-08-12 21:06:57,988 INFO dice is rolled
+2019-08-12 21:06:58,385 INFO dice is rolled
+2019-08-12 21:06:58,758 INFO dice is rolled
+2019-08-12 21:06:59,128 INFO dice is rolled
+2019-08-12 21:06:59,491 INFO dice is rolled
+2019-08-12 21:06:59,857 INFO dice is rolled
+2019-08-12 21:07:00,206 INFO dice is rolled
+2019-08-12 21:07:00,572 INFO dice is rolled
+2019-08-12 21:07:00,573 INFO Game is finished
+2019-08-12 21:07:48,286 INFO You are playing Computer game
+2019-08-12 21:07:48,287 INFO dice is rolled
+2019-08-12 21:07:48,287 INFO dice is rolled
+2019-08-12 21:07:48,287 INFO dice is held
+2019-08-12 21:07:50,378 INFO dice is held
+2019-08-12 21:07:50,378 INFO dice is rolled
+2019-08-12 21:07:50,378 INFO dice is held
+2019-08-12 21:07:51,156 INFO dice is held
+2019-08-12 21:07:51,156 INFO Player switched
+2019-08-12 21:07:51,156 INFO dice is rolled
+2019-08-12 21:07:51,662 INFO dice is held
+2019-08-12 21:07:51,662 INFO dice is held
+2019-08-12 21:07:52,101 INFO dice is held
+2019-08-12 21:07:52,101 INFO dice is held
+2019-08-12 21:07:52,479 INFO dice is held
+2019-08-12 21:07:52,479 INFO dice is held
+2019-08-12 21:07:54,626 INFO dice is rolled
+2019-08-12 21:07:55,108 INFO dice is rolled
+2019-08-12 21:07:55,528 INFO dice is rolled
+2019-08-12 21:07:55,927 INFO dice is rolled
+2019-08-12 21:07:56,282 INFO dice is rolled
+2019-08-12 21:07:56,666 INFO dice is rolled
+2019-08-12 21:07:57,098 INFO dice is rolled
+2019-08-12 21:07:57,481 INFO dice is rolled
+2019-08-12 21:07:57,906 INFO dice is rolled
+2019-08-12 21:07:58,295 INFO dice is rolled
+2019-08-12 21:07:58,701 INFO dice is rolled
+2019-08-12 21:07:59,100 INFO dice is rolled
+2019-08-12 21:07:59,496 INFO dice is rolled
+2019-08-12 21:07:59,904 INFO dice is rolled
+2019-08-12 21:08:00,298 INFO dice is rolled
+2019-08-12 21:08:00,706 INFO dice is rolled
+2019-08-12 21:08:01,083 INFO dice is rolled
+2019-08-12 21:08:01,484 INFO dice is rolled
+2019-08-12 21:08:01,908 INFO dice is rolled
+2019-08-12 21:08:02,354 INFO dice is rolled
+2019-08-12 21:08:02,777 INFO dice is rolled
+2019-08-12 21:08:03,198 INFO dice is rolled
+2019-08-12 21:08:03,564 INFO dice is rolled
+2019-08-12 21:08:03,960 INFO dice is rolled
+2019-08-12 21:08:04,378 INFO dice is rolled
+2019-08-12 21:08:04,785 INFO dice is rolled
+2019-08-12 21:08:05,645 INFO dice is rolled
+2019-08-12 21:08:05,645 INFO Game is finished
+2019-08-12 21:09:23,254 INFO You are playing Computer game
+2019-08-12 21:09:25,300 INFO dice is rolled
+2019-08-12 21:09:27,112 INFO dice is held
+2019-08-12 21:09:27,113 INFO dice is held
+2019-08-12 21:09:28,804 INFO dice is rolled
+2019-08-12 21:09:29,180 INFO dice is rolled
+2019-08-12 21:09:29,783 INFO dice is rolled
+2019-08-12 21:09:30,138 INFO dice is rolled
+2019-08-12 21:09:30,476 INFO dice is rolled
+2019-08-12 21:09:30,784 INFO dice is rolled
+2019-08-12 21:09:31,098 INFO dice is rolled
+2019-08-12 21:09:31,407 INFO dice is rolled
+2019-08-12 21:09:31,704 INFO dice is rolled
+2019-08-12 21:09:32,016 INFO dice is rolled
+2019-08-12 21:09:32,323 INFO dice is rolled
+2019-08-12 21:09:32,642 INFO dice is rolled
+2019-08-12 21:09:32,951 INFO dice is rolled
+2019-08-12 21:09:33,235 INFO dice is rolled
+2019-08-12 21:09:33,576 INFO dice is rolled
+2019-08-12 21:09:33,857 INFO dice is rolled
+2019-08-12 21:09:34,158 INFO dice is rolled
+2019-08-12 21:09:34,461 INFO dice is rolled
+2019-08-12 21:09:34,754 INFO dice is rolled
+2019-08-12 21:09:35,033 INFO dice is rolled
+2019-08-12 21:09:35,350 INFO dice is rolled
+2019-08-12 21:09:35,720 INFO dice is rolled
+2019-08-12 21:09:36,049 INFO dice is rolled
+2019-08-12 21:09:36,050 INFO Game is finished
+2019-08-12 21:09:53,702 INFO You are playing Computer game
+2019-08-12 21:09:58,347 INFO dice is rolled
+2019-08-12 21:09:58,908 INFO Player switched
+2019-08-12 21:09:58,908 INFO dice is rolled
+2019-08-12 21:09:58,908 INFO dice is held
+2019-08-12 21:09:59,313 INFO dice is rolled
+2019-08-12 21:09:59,661 INFO dice is rolled
+2019-08-12 21:10:00,039 INFO Player switched
+2019-08-12 21:10:00,039 INFO dice is rolled
+2019-08-12 21:10:00,039 INFO dice is held
+2019-08-12 21:10:02,327 INFO dice is rolled
+2019-08-12 21:10:02,793 INFO Player switched
+2019-08-12 21:10:02,793 INFO dice is rolled
+2019-08-12 21:10:02,794 INFO dice is held
+2019-08-12 21:10:03,304 INFO dice is rolled
+2019-08-12 21:10:03,759 INFO dice is rolled
+2019-08-12 21:10:04,304 INFO dice is rolled
+2019-08-12 21:10:04,803 INFO dice is rolled
+2019-08-12 21:10:05,322 INFO dice is rolled
+2019-08-12 21:10:05,831 INFO dice is rolled
+2019-08-12 21:10:06,329 INFO dice is rolled
+2019-08-12 21:10:06,774 INFO dice is rolled
+2019-08-12 21:10:07,221 INFO dice is rolled
+2019-08-12 21:10:07,661 INFO dice is rolled
+2019-08-12 21:10:08,064 INFO Player switched
+2019-08-12 21:10:08,065 INFO dice is rolled
+2019-08-12 21:10:08,065 INFO Player switched
+2019-08-12 21:10:08,065 INFO dice is rolled
+2019-08-12 21:10:08,444 INFO dice is rolled
+2019-08-12 21:10:09,829 INFO dice is rolled
+2019-08-12 21:10:10,121 INFO dice is rolled
+2019-08-12 21:10:58,546 ERROR Execution interrutpted due to invalid input 
+2019-08-12 21:11:01,441 INFO You are playing Computer game
+2019-08-12 21:11:03,186 INFO dice is rolled
+2019-08-12 21:11:04,421 INFO dice is rolled
+2019-08-12 21:11:04,979 INFO dice is rolled
+2019-08-12 21:11:05,440 INFO dice is rolled
+2019-08-12 21:11:05,831 INFO dice is rolled
+2019-08-12 21:11:06,202 INFO dice is rolled
+2019-08-12 21:11:06,542 INFO Player switched
+2019-08-12 21:11:06,542 INFO dice is rolled
+2019-08-12 21:11:06,542 INFO dice is rolled
+2019-08-12 21:11:06,542 INFO dice is rolled
+2019-08-12 21:11:06,542 INFO dice is rolled
+2019-08-12 21:11:06,543 INFO dice is rolled
+2019-08-12 21:11:06,543 INFO dice is rolled
+2019-08-12 21:11:06,543 INFO dice is held
+2019-08-12 21:11:06,888 INFO Player switched
+2019-08-12 21:11:06,889 INFO dice is rolled
+2019-08-12 21:11:06,889 INFO dice is rolled
+2019-08-12 21:11:06,889 INFO dice is rolled
+2019-08-12 21:11:06,889 INFO Player switched
+2019-08-12 21:11:06,889 INFO dice is rolled
+2019-08-12 21:11:08,806 INFO dice is rolled
+2019-08-12 21:11:09,229 INFO Player switched
+2019-08-12 21:11:09,229 INFO dice is rolled
+2019-08-12 21:11:09,229 INFO dice is held
+2019-08-12 21:11:11,180 INFO dice is rolled
+2019-08-12 21:11:12,313 INFO dice is rolled
+2019-08-12 21:11:13,229 INFO Player switched
+2019-08-12 21:11:13,229 INFO dice is rolled
+2019-08-12 21:11:13,229 INFO dice is held
+2019-08-12 21:11:16,356 INFO dice is rolled
+2019-08-12 21:11:17,915 INFO dice is rolled
+2019-08-12 21:11:18,689 INFO dice is rolled
+2019-08-12 21:11:19,272 INFO Player switched
+2019-08-12 21:11:19,272 INFO dice is rolled
+2019-08-12 21:11:19,273 INFO dice is rolled
+2019-08-12 21:11:19,273 INFO dice is held
+2019-08-12 21:11:19,757 INFO Player switched
+2019-08-12 21:11:19,757 INFO dice is rolled
+2019-08-12 21:11:19,757 INFO dice is rolled
+2019-08-12 21:11:19,757 INFO dice is held
+2019-08-12 21:11:20,460 INFO dice is rolled
+2019-08-12 21:11:20,987 INFO dice is rolled
+2019-08-12 21:11:21,740 INFO dice is rolled
+2019-08-12 21:11:22,412 INFO dice is rolled
+2019-08-12 21:11:23,005 INFO dice is rolled
+2019-08-12 21:11:23,533 INFO Player switched
+2019-08-12 21:11:23,533 INFO dice is rolled
+2019-08-12 21:11:23,533 INFO Player switched
+2019-08-12 21:11:23,533 INFO dice is rolled
+2019-08-12 21:11:24,054 INFO dice is rolled
+2019-08-12 21:11:26,284 INFO dice is rolled
+2019-08-12 21:11:27,081 INFO dice is rolled
+2019-08-12 21:11:28,127 INFO dice is rolled
+2019-08-12 21:11:28,918 INFO dice is rolled
+2019-08-12 21:11:29,735 INFO dice is rolled
+2019-08-12 21:11:30,525 INFO dice is rolled
+2019-08-12 21:11:31,231 INFO dice is rolled
+2019-08-12 21:11:31,919 INFO dice is rolled
+2019-08-12 21:11:32,520 INFO dice is rolled
+2019-08-12 21:11:33,131 INFO dice is rolled
+2019-08-12 21:11:33,761 INFO dice is rolled
+2019-08-12 21:11:34,286 INFO dice is rolled
+2019-08-12 21:11:34,847 INFO dice is rolled
+2019-08-12 21:11:35,401 INFO dice is rolled
+2019-08-12 21:11:35,967 INFO Player switched
+2019-08-12 21:11:35,967 INFO dice is rolled
+2019-08-12 21:11:35,968 INFO dice is rolled
+2019-08-12 21:11:35,968 INFO dice is held
+2019-08-12 21:11:36,500 INFO dice is rolled
+2019-08-12 21:11:37,842 INFO dice is rolled
+2019-08-12 21:11:38,502 INFO dice is rolled
+2019-08-12 21:11:39,072 INFO dice is rolled
+2019-08-12 21:11:39,589 INFO dice is rolled
+2019-08-12 21:11:40,013 INFO dice is rolled
+2019-08-12 21:11:40,463 INFO dice is rolled
+2019-08-12 21:11:40,897 INFO dice is rolled
+2019-08-12 21:11:41,298 INFO dice is rolled
+2019-08-12 21:11:41,752 INFO dice is rolled
+2019-08-12 21:11:42,185 INFO dice is rolled
+2019-08-12 21:11:42,619 INFO dice is rolled
+2019-08-12 21:11:43,086 INFO dice is rolled
+2019-08-12 21:11:45,991 INFO dice is rolled
+2019-08-12 21:11:47,685 INFO dice is rolled
+2019-08-12 21:11:48,867 INFO dice is rolled
+2019-08-12 21:11:49,644 INFO dice is rolled
+2019-08-12 21:11:50,403 INFO dice is rolled
+2019-08-12 21:11:51,135 INFO dice is rolled
+2019-08-12 21:11:51,758 INFO dice is rolled
+2019-08-12 21:11:52,327 INFO dice is rolled
+2019-08-12 21:11:52,867 INFO Player switched
+2019-08-12 21:11:52,868 INFO dice is rolled
+2019-08-12 21:11:52,868 INFO dice is held
+2019-08-12 21:11:53,369 INFO dice is rolled
+2019-08-12 21:12:05,240 INFO Player switched
+2019-08-12 21:12:05,240 INFO dice is rolled
+2019-08-12 21:12:05,240 INFO dice is rolled
+2019-08-12 21:12:05,240 INFO dice is held
+2019-08-12 21:12:07,583 INFO dice is rolled
+2019-08-12 21:12:09,140 INFO dice is rolled
+2019-08-12 21:12:09,711 INFO dice is rolled
+2019-08-12 21:12:10,182 INFO dice is rolled
+2019-08-12 21:12:10,604 INFO dice is rolled
+2019-08-12 21:12:11,046 INFO dice is rolled
+2019-08-12 21:12:11,485 INFO Player switched
+2019-08-12 21:12:11,485 INFO dice is rolled
+2019-08-12 21:12:11,486 INFO dice is held
+2019-08-12 21:12:11,932 INFO dice is rolled
+2019-08-12 21:12:13,091 INFO dice is rolled
+2019-08-12 21:12:13,761 INFO dice is rolled
+2019-08-12 21:12:14,518 INFO dice is rolled
+2019-08-12 21:12:15,184 INFO dice is rolled
+2019-08-12 21:12:15,788 INFO dice is rolled
+2019-08-12 21:12:16,456 INFO dice is rolled
+2019-08-12 21:12:17,097 INFO dice is rolled
+2019-08-12 21:12:17,793 INFO dice is rolled
+2019-08-12 21:12:18,385 INFO dice is rolled
+2019-08-12 21:12:19,004 INFO dice is rolled
+2019-08-12 21:12:19,536 INFO dice is rolled
+2019-08-12 21:12:20,065 INFO dice is rolled
+2019-08-12 21:12:20,578 INFO dice is rolled
+2019-08-12 21:12:21,091 INFO dice is rolled
+2019-08-12 21:12:21,623 INFO dice is rolled
+2019-08-12 21:12:22,105 INFO Player switched
+2019-08-12 21:12:22,105 INFO dice is rolled
+2019-08-12 21:12:22,105 INFO Player switched
+2019-08-12 21:12:22,106 INFO dice is rolled
+2019-08-12 21:12:22,623 INFO dice is rolled
+2019-08-12 21:12:23,243 INFO dice is rolled
+2019-08-12 21:12:23,694 INFO dice is rolled
+2019-08-12 21:12:24,083 INFO dice is rolled
+2019-08-12 21:12:24,460 INFO dice is rolled
+2019-08-12 21:12:24,796 INFO dice is rolled
+2019-08-12 21:12:25,170 INFO dice is rolled
+2019-08-12 21:12:25,488 INFO dice is rolled
+2019-08-12 21:12:25,855 INFO dice is rolled
+2019-08-12 21:12:26,229 INFO dice is rolled
+2019-08-12 21:12:26,594 INFO dice is rolled
+2019-08-12 21:12:26,955 INFO dice is rolled
+2019-08-12 21:12:27,290 INFO dice is rolled
+2019-08-12 21:12:27,677 INFO dice is rolled
+2019-08-12 21:12:28,047 INFO dice is rolled
+2019-08-12 21:12:28,427 INFO dice is rolled
+2019-08-12 21:12:28,807 INFO dice is rolled
+2019-08-12 21:12:29,262 INFO Player switched
+2019-08-12 21:12:29,262 INFO dice is rolled
+2019-08-12 21:12:29,262 INFO dice is held
+2019-08-12 21:12:29,652 INFO dice is rolled
+2019-08-12 21:12:31,746 INFO dice is rolled
+2019-08-12 21:12:32,374 INFO dice is rolled
+2019-08-12 21:12:32,914 INFO dice is rolled
+2019-08-12 21:12:33,466 INFO Player switched
+2019-08-12 21:12:33,466 INFO dice is rolled
+2019-08-12 21:12:33,466 INFO dice is held
+2019-08-12 21:12:33,937 INFO dice is rolled
+2019-08-12 21:12:34,530 INFO dice is rolled
+2019-08-12 21:12:35,068 INFO dice is rolled
+2019-08-12 21:12:35,565 INFO dice is rolled
+2019-08-12 21:12:36,015 INFO dice is rolled
+2019-08-12 21:13:04,469 INFO You are playing Challenge Game
+2019-08-12 21:13:08,266 INFO dice is rolled
+2019-08-12 21:13:10,793 INFO dice is rolled
+2019-08-12 21:13:12,726 INFO dice is rolled
+2019-08-12 21:13:13,452 INFO dice is rolled
+2019-08-12 21:13:14,309 INFO dice is rolled
+2019-08-12 21:13:15,195 INFO dice is rolled
+2019-08-12 21:13:15,195 INFO Game is finished
+2019-08-12 21:13:23,685 INFO You are playing Computer game
+2019-08-12 21:13:23,685 INFO dice is held
+2019-08-12 21:13:38,054 ERROR Execution interrutpted due to invalid input 
+2019-08-12 21:13:39,534 INFO You are playing Computer game
+2019-08-12 21:13:41,705 INFO Player switched
+2019-08-12 21:13:41,705 INFO dice is rolled
+2019-08-12 21:13:41,705 INFO dice is rolled
+2019-08-12 21:13:41,705 INFO dice is held
+2019-08-12 21:13:51,437 ERROR Execution interrutpted due to invalid input 
+2019-08-12 21:13:54,154 INFO You are playing Computer game
+2019-08-12 21:13:56,695 INFO dice is held
+2019-08-12 21:13:56,695 INFO dice is rolled
+2019-08-12 21:13:56,696 INFO dice is held
+2019-08-12 21:14:37,452 INFO dice is rolled
+2019-08-12 21:15:07,254 INFO You are playing Computer game
+2019-08-12 21:15:07,254 INFO dice is rolled
+2019-08-12 21:15:07,254 INFO dice is held
+2019-08-12 21:15:17,274 INFO You are playing Tournament Game
+2019-08-12 21:15:20,843 INFO dice is rolled
+2019-08-12 21:15:21,412 INFO dice is rolled
+2019-08-12 21:15:22,019 INFO dice is rolled
+2019-08-12 21:15:22,705 INFO dice is rolled
+2019-08-12 21:15:23,284 INFO dice is rolled
+2019-08-12 21:15:23,877 INFO dice is rolled
+2019-08-12 21:15:24,508 INFO dice is rolled
+2019-08-12 21:15:25,446 INFO dice is rolled
+2019-08-12 21:15:26,057 INFO dice is rolled
+2019-08-12 21:15:26,629 INFO dice is rolled
+2019-08-12 21:15:27,192 INFO dice is rolled
+2019-08-12 21:15:27,756 INFO dice is rolled
+2019-08-12 21:15:28,293 INFO dice is rolled
+2019-08-12 21:15:28,753 INFO dice is rolled
+2019-08-12 21:15:43,144 INFO You are playing Challenge Game
+2019-08-12 21:16:33,726 INFO You are playing Challenge Game
+2019-08-12 21:16:42,380 INFO dice is rolled
+2019-08-12 21:16:43,505 INFO dice is rolled
+2019-08-12 21:16:44,222 INFO Player switched
+2019-08-12 21:16:44,223 INFO dice is rolled
+2019-08-12 21:16:44,752 INFO dice is rolled
+2019-08-12 21:16:45,333 INFO dice is rolled
+2019-08-12 21:16:45,873 INFO dice is rolled
+2019-08-12 21:16:46,372 INFO dice is rolled
+2019-08-12 21:16:46,881 INFO dice is rolled
+2019-08-12 21:16:46,881 INFO Game is finished
+2019-08-12 21:17:30,702 INFO You are playing Tournament Game
+2019-08-12 21:17:42,471 INFO dice is held
+2019-08-12 21:17:45,528 INFO dice is rolled
+2019-08-12 21:17:47,550 INFO Player switched
+2019-08-12 21:17:47,550 INFO dice is rolled
+2019-08-12 21:17:48,154 INFO dice is rolled
+2019-08-12 21:17:48,582 INFO dice is rolled
+2019-08-12 21:17:48,997 INFO dice is rolled
+2019-08-12 21:17:49,453 INFO dice is rolled
+2019-08-12 21:17:49,851 INFO dice is rolled
+2019-08-12 21:17:50,251 INFO dice is rolled
+2019-08-12 21:17:50,627 INFO Player switched
+2019-08-12 21:17:50,628 INFO dice is rolled
+2019-08-12 21:17:51,013 INFO dice is rolled
+2019-08-12 21:17:51,375 INFO Player switched
+2019-08-12 21:17:51,375 INFO dice is rolled
+2019-08-12 21:17:51,760 INFO dice is rolled
+2019-08-12 21:17:52,118 INFO dice is rolled
+2019-08-12 21:17:52,453 INFO dice is rolled
+2019-08-12 21:17:52,831 INFO dice is rolled
+2019-08-12 21:17:53,194 INFO dice is rolled
+2019-08-12 21:17:53,568 INFO dice is rolled
+2019-08-12 21:17:53,941 INFO Player switched
+2019-08-12 21:17:53,941 INFO dice is rolled
+2019-08-12 21:17:54,338 INFO dice is rolled
+2019-08-12 21:17:54,808 INFO dice is rolled
+2019-08-12 21:17:55,247 INFO dice is rolled
+2019-08-12 21:17:56,141 INFO dice is rolled
+2019-08-12 21:17:56,507 INFO dice is rolled
+2019-08-12 21:17:57,191 INFO dice is rolled
+2019-08-12 21:17:57,466 INFO dice is rolled
+2019-08-12 21:17:57,736 INFO dice is rolled
+2019-08-12 21:17:57,985 INFO dice is rolled
+2019-08-12 21:17:58,184 INFO Player switched
+2019-08-12 21:17:58,184 INFO dice is rolled
+2019-08-12 21:56:42,066 INFO You are playing Computer game
+2019-08-12 21:56:49,097 ERROR Execution interrutpted due to invalid input 
+2019-08-12 21:56:50,832 INFO You are playing Computer game
+2019-08-12 21:56:52,591 INFO dice is rolled
+2019-08-12 21:56:54,440 INFO dice is held
+2019-08-12 21:56:54,440 INFO Player switched
+2019-08-12 21:56:54,440 INFO dice is rolled
+2019-08-12 21:57:01,109 INFO dice is rolled
+2019-08-12 21:57:02,566 INFO Player switched
+2019-08-12 21:57:02,566 INFO dice is rolled
+2019-08-12 21:57:02,566 INFO dice is held
+2019-08-12 21:57:03,683 INFO dice is rolled
+2019-08-12 21:57:04,442 INFO dice is rolled
+2019-08-12 21:57:05,042 INFO dice is rolled
+2019-08-12 21:57:05,512 INFO dice is rolled
+2019-08-12 21:57:06,059 INFO dice is rolled
+2019-08-12 21:57:06,590 INFO dice is rolled
+2019-08-12 21:57:07,039 INFO dice is rolled
+2019-08-12 21:57:07,497 INFO dice is rolled
+2019-08-12 21:57:07,925 INFO dice is rolled
+2019-08-12 21:57:08,343 INFO Player switched
+2019-08-12 21:57:08,343 INFO dice is rolled
+2019-08-12 21:57:08,343 INFO dice is rolled
+2019-08-12 21:57:08,343 INFO dice is held
+2019-08-12 21:57:08,722 INFO dice is rolled
+2019-08-12 21:57:09,172 INFO dice is rolled
+2019-08-12 21:57:09,511 INFO dice is rolled
+2019-08-12 21:57:09,881 INFO dice is rolled
+2019-08-12 21:57:10,242 INFO dice is rolled
+2019-08-12 21:57:10,930 INFO dice is rolled
+2019-08-12 21:57:11,321 INFO Player switched
+2019-08-12 21:57:11,321 INFO dice is rolled
+2019-08-12 21:57:11,322 INFO dice is held
+2019-08-12 21:57:11,644 INFO Player switched
+2019-08-12 21:57:11,644 INFO dice is rolled
+2019-08-12 21:57:11,645 INFO dice is rolled
+2019-08-12 21:57:11,645 INFO dice is held
+2019-08-12 21:57:11,926 INFO dice is rolled
+2019-08-12 21:57:12,189 INFO Player switched
+2019-08-12 21:57:12,189 INFO dice is rolled
+2019-08-12 21:57:12,189 INFO dice is rolled
+2019-08-12 21:57:12,190 INFO dice is rolled
+2019-08-12 21:57:12,190 INFO dice is held
+2019-08-12 21:57:12,416 INFO dice is rolled
+2019-08-12 21:57:12,711 INFO dice is rolled
+2019-08-12 21:57:12,970 INFO dice is rolled
+2019-08-12 21:57:13,219 INFO dice is rolled
+2019-08-12 21:57:22,816 ERROR Execution interrutpted due to invalid input 
+2019-08-12 21:57:24,301 INFO You are playing Computer game
+2019-08-12 21:57:24,301 INFO dice is rolled
+2019-08-12 21:57:24,302 INFO dice is rolled
+2019-08-12 21:57:24,302 INFO dice is rolled
+2019-08-12 21:57:24,302 INFO Player switched
+2019-08-12 21:57:24,302 INFO dice is rolled
+2019-08-12 21:57:30,943 ERROR Execution interrutpted due to invalid input 
+2019-08-12 21:57:33,733 INFO You are playing Challenge Game
+2019-08-12 21:57:50,597 INFO dice is rolled
+2019-08-12 21:57:51,043 INFO dice is rolled
+2019-08-12 21:57:51,417 INFO Player switched
+2019-08-12 21:57:51,418 INFO dice is rolled
+2019-08-12 21:57:51,750 INFO dice is rolled
+2019-08-12 21:57:52,099 INFO dice is rolled
+2019-08-12 21:57:52,426 INFO dice is rolled
+2019-08-12 21:57:52,802 INFO dice is rolled
+2019-08-12 21:57:53,142 INFO dice is rolled
+2019-08-12 21:57:53,142 INFO Game is finished
+2019-08-12 21:58:21,960 INFO You are playing Challenge Game
+2019-08-12 21:58:29,181 INFO dice is rolled
+2019-08-12 21:58:31,228 INFO dice is held
+2019-08-12 21:58:33,322 INFO dice is rolled
+2019-08-12 21:58:34,951 INFO dice is held
+2019-08-12 21:58:37,072 INFO Player switched
+2019-08-12 21:58:37,072 INFO dice is rolled
+2019-08-12 21:58:37,582 INFO dice is rolled
+2019-08-12 21:58:37,970 INFO Player switched
+2019-08-12 21:58:37,970 INFO dice is rolled
+2019-08-12 21:58:38,344 INFO dice is rolled
+2019-08-12 21:58:38,707 INFO dice is rolled
+2019-08-12 21:58:39,080 INFO dice is rolled
+2019-08-12 21:58:39,421 INFO dice is rolled
+2019-08-12 21:58:39,770 INFO dice is rolled
+2019-08-12 21:58:40,118 INFO dice is rolled
+2019-08-12 21:58:40,435 INFO dice is rolled
+2019-08-12 21:58:40,773 INFO dice is rolled
+2019-08-12 21:58:41,098 INFO Player switched
+2019-08-12 21:58:41,098 INFO dice is rolled
+2019-08-12 21:58:41,414 INFO dice is rolled
+2019-08-12 21:58:41,709 INFO dice is rolled
+2019-08-12 21:58:42,067 INFO dice is rolled
+2019-08-12 21:58:42,379 INFO dice is rolled
+2019-08-12 21:58:42,722 INFO dice is rolled
+2019-08-12 21:58:43,456 INFO dice is rolled
+2019-08-12 21:58:44,242 INFO dice is rolled
+2019-08-12 21:58:44,757 INFO dice is rolled
+2019-08-12 21:59:13,180 INFO You are playing Computer game
+2019-08-12 21:59:13,181 INFO dice is held
+2019-08-12 21:59:24,276 INFO You are playing Tournament Game
+2019-08-12 21:59:27,214 INFO dice is rolled
+2019-08-12 21:59:27,700 INFO dice is rolled
+2019-08-12 21:59:28,168 INFO dice is rolled
+2019-08-12 21:59:28,653 INFO dice is rolled
+2019-08-12 22:00:57,266 INFO You are playing Computer game
+2019-08-12 22:01:05,925 INFO You are playing Tournament Game
+2019-08-12 22:01:12,302 INFO Player switched
+2019-08-12 22:01:12,302 INFO dice is rolled
+2019-08-12 22:01:13,678 INFO dice is rolled
+2019-08-12 22:01:14,498 INFO dice is rolled
+2019-08-12 22:01:15,462 INFO dice is rolled
+2019-08-12 22:01:16,529 INFO dice is rolled
+2019-08-12 22:01:16,529 INFO Game is finished

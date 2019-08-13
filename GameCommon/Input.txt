@@ -1,0 +1,17 @@
+{
+    "player": "Press '1'for player1 '2' for player2: ",
+    "rollHold": "Press 'r' for Roll and 'h' for Hold:  ",
+    "invalid": "Invalid input",
+    "numberofplayers": "Enter '1' for Computer Game '2' for Human Game: ",
+    "GameType": "1: Challange 2: Tornament  : ",
+    "finalScore": "Score is frozen to : ",
+    "tResult": "Tornament score:",
+    "tplayer1": "Congratualtion! tornament winner is player1",
+    "tplayer2": "Congratualtion! tornament winner is player2",
+    "mplayer1": "Congratulation! player1 is the winner of match with lead of: ",
+    "mplayer2": "Congratulation! player2 is the winner of match with lead of: ",
+    "turn": "Turn: player",
+    "scoreCard": "Scorecard: ",
+    "gameRules" : "Welcome to PIG GAME! \nRULES: \n  1.If you roll '1': No points, next player's turn \n  2.If roll '2-6': either roll again 'r' or hold 'h' \n  3.If hold: sum of all rolls is added to score & turn passes to other players \n  4. Winner if you score 100 or more\nPlease note that for computer game type,player1 is computer and player2 is human.\nNote:- Please refer README.md for more informetion\n"
+
+}
