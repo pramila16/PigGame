@@ -6,7 +6,7 @@ logger = jsondata.setup_logger('game')
 class PigGame:
     """Main Pig Game class. """
 
-    def startGame(self):
+        def startGame(self):
         """Plays an entire game."""
 
         try:
